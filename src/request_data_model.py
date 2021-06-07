@@ -15,7 +15,13 @@ class FantasyPlayersRequestParams:
         self.matchdayId = matchday_id
 
 class PlayersRankingRequestParams:
-    def __init__(self, competitionId="NTC", languageSet="EN", offset=0, seasonYear="current", statisticSet="FIELD_POSITION_SET", limit=2157):
+    def __init__(self,
+                 competitionId="NTC",
+                 languageSet="EN",
+                 offset=0,
+                 seasonYear="current",
+                 statisticSet="FIELD_POSITION_SET",
+                 limit=2157):
         self.competitionId = competitionId
         self.languageSet = languageSet
         self.offset = offset

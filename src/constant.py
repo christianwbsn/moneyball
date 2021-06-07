@@ -1,7 +1,7 @@
-FANTASY_BASE_URL = "https://gaming.uefa.com/en/uefaeuro2020fantasyfootball/services/api/Feed/"
-PLAYERS_ENDPOINT =  "players"
-TEAMS_ENDPOINT = "teams/"
-FIXTURES_ENDPOINT = "fixtures"
+FANTASY_BASE_URL    = "https://gaming.uefa.com/en/uefaeuro2020fantasyfootball/services/api/Feed/"
+PLAYERS_ENDPOINT    = "players"
+TEAMS_ENDPOINT      = "teams/"
+FIXTURES_ENDPOINT   = "fixtures"
 
 PLAYERS_RANKING_URL = "https://performancezone.uefa.com/api/v3/rankings"
 
