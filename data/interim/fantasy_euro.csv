@@ -1,0 +1,1058 @@
+Player,Date,LeagueName,TeamName,OpponentName,Price,Skill,SelectedPercentage
+Cristiano Ronaldo,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,12.0,4,26.0
+Kylian Mbappé,2021-06-15 21:00:00,European Championship 2020,France,Germany,12.0,4,34.0
+Harry Kane,2021-06-13 15:00:00,European Championship 2020,England,Croatia,11.5,4,43.0
+Robert Lewandowski,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,11.5,4,16.0
+Romelu Lukaku,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,11.0,4,42.0
+Antoine Griezmann,2021-06-15 21:00:00,European Championship 2020,France,Germany,11.0,4,3.0
+Kevin De Bruyne,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,10.5,3,33.0
+Bruno Fernandes,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,10.5,3,19.0
+Karim Benzema,2021-06-15 21:00:00,European Championship 2020,France,Germany,10.0,4,10.0
+Eden Hazard,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,10.0,3,3.0
+Memphis Depay,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,10.0,4,15.0
+Ciro Immobile,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,10.0,4,8.0
+Serge Gnabry,2021-06-15 21:00:00,European Championship 2020,Germany,France,9.5,3,2.0
+Kingsley Coman,2021-06-15 21:00:00,European Championship 2020,France,Germany,9.5,3,0.0
+Leroy Sané,2021-06-15 21:00:00,European Championship 2020,Germany,France,9.5,3,1.0
+Marcus Rashford,2021-06-13 15:00:00,European Championship 2020,England,Croatia,9.5,4,5.0
+Gareth Bale,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,9.5,3,5.0
+Jadon Sancho,2021-06-13 15:00:00,European Championship 2020,England,Croatia,9.5,3,1.0
+Raheem Sterling,2021-06-13 15:00:00,European Championship 2020,England,Croatia,9.5,3,1.0
+Christian Eriksen,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,9.0,3,4.0
+Kai Havertz,2021-06-15 21:00:00,European Championship 2020,Germany,France,9.0,3,2.0
+Álvaro Morata,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,9.0,4,3.0
+Zlatan Ibrahimović,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,9.0,4,1.0
+André Silva,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,9.0,4,1.0
+Thomas Müller,2021-06-15 21:00:00,European Championship 2020,Germany,France,9.0,4,2.0
+Dries Mertens,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,9.0,4,3.0
+Paul Pogba,2021-06-15 21:00:00,European Championship 2020,France,Germany,8.5,3,5.0
+Timo Werner,2021-06-15 21:00:00,European Championship 2020,Germany,France,8.5,4,6.0
+Luka Modric,2021-06-13 15:00:00,European Championship 2020,Croatia,England,8.5,3,4.0
+João Félix,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,8.5,3,2.0
+Diogo Jota,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,8.5,3,10.0
+Andriy Yarmolenko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,8.5,3,0.0
+Kevin Volland,2021-06-15 21:00:00,European Championship 2020,Germany,France,8.5,4,0.0
+Lorenzo Insigne,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,8.5,3,4.0
+Marcus Berg,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,8.5,4,0.0
+Ivan Perisic,2021-06-13 15:00:00,European Championship 2020,Croatia,England,8.5,3,1.0
+Krzysztof Piątek,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,8.5,4,0.0
+Anthony Martial,2021-06-15 21:00:00,European Championship 2020,France,Germany,8.5,4,0.0
+Ousmane Dembélé,2021-06-15 21:00:00,European Championship 2020,France,Germany,8.5,4,1.0
+Bernardo Silva,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,8.5,3,2.0
+Artem Dzyuba,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,8.5,4,1.0
+Hakan Calhanoglu,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,8.5,3,1.0
+Haris Seferovic,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,8.5,4,0.0
+Aaron Ramsey,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,8.5,3,0.0
+Alexander Isak,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,8.0,4,2.0
+Julian Brandt,2021-06-15 21:00:00,European Championship 2020,Germany,France,8.0,3,0.0
+Patrik Schick,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,8.0,4,0.0
+Ferran Torres,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,8.0,3,10.0
+Marcel Sabitzer,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,8.0,3,1.0
+Georginio Wijnaldum,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,8.0,3,6.0
+Olivier Giroud,2021-06-15 21:00:00,European Championship 2020,France,Germany,8.0,4,1.0
+Burak Yilmaz,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,8.0,4,13.0
+Marek Hamsik,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,8.0,3,0.0
+Phil Foden,2021-06-13 15:00:00,European Championship 2020,England,Croatia,8.0,3,14.0
+Thorgan Hazard,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,8.0,3,0.0
+Denis Cheryshev,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,8.0,3,0.0
+Arkadiusz Milik,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,8.0,4,0.0
+Yevhen Konoplyanka,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,8.0,3,0.0
+Yussuf Poulsen,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,8.0,4,1.0
+Andrea Belotti,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,8.0,4,1.0
+Breel Embolo,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,8.0,4,0.0
+Julian Draxler,2021-06-15 21:00:00,European Championship 2020,Germany,France,8.0,3,0.0
+Ercan Kara,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,7.5,4,0.0
+Ilkay Gündogan,2021-06-15 21:00:00,European Championship 2020,Germany,France,7.5,3,7.0
+Aleksandr Golovin,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,7.5,3,1.0
+Federico Bernardeschi,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,7.5,3,0.0
+Mario Gavranovic,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,7.5,4,0.0
+Martin Braithwaite,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,7.5,4,1.0
+Mikel Oyarzabal,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,7.5,4,1.0
+Stephan El Shaarawy,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,7.5,3,0.0
+Robin Quaison,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,7.5,4,0.0
+Luuk de Jong,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,7.5,4,2.0
+Jack Grealish,2021-06-13 15:00:00,European Championship 2020,England,Croatia,7.5,3,2.0
+Marco Reus,2021-06-15 21:00:00,European Championship 2020,Germany,France,7.5,3,0.0
+Marco Asensio,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,7.5,3,0.0
+Rodrigo,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,7.5,4,0.0
+Steven Bergwijn,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,7.5,3,0.0
+Saša Kalajdžić,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,7.5,4,1.0
+Emil Forsberg,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,7.5,3,0.0
+Harry Wilson,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,7.5,3,0.0
+Marcus Thuram,2021-06-15 21:00:00,European Championship 2020,France,Germany,7.5,4,0.0
+Tomas Pekhart,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,7.5,4,0.0
+Mario Pasalic,2021-06-13 15:00:00,European Championship 2020,Croatia,England,7.5,3,0.0
+John McGinn,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,7.5,3,1.0
+Vladimír Darida,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,7.5,3,0.0
+Cengiz Ünder,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,7.0,4,0.0
+Dani Olmo,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,7.0,3,2.0
+Wout Weghorst,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,7.0,4,0.0
+Robert Mak,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,7.0,4,0.0
+Ruslan Malinovskiy,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,7.0,3,1.0
+Mason Mount,2021-06-13 15:00:00,European Championship 2020,England,Croatia,7.0,3,32.0
+Cenk Tosun,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,7.0,4,0.0
+Pedro Neto,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,7.0,3,0.0
+Václav Černý,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,7.0,4,0.0
+Saúl Ñíguez,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,7.0,3,0.0
+Teemu Pukki,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,7.0,4,6.0
+Quincy Promes,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,7.0,3,0.0
+Ante Rebic,2021-06-13 15:00:00,European Championship 2020,Croatia,England,7.0,4,4.0
+Pizzi,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,7.0,3,0.0
+Aleksandar Trajkovski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,7.0,4,0.0
+Federico Chiesa,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,7.0,3,22.0
+Steven Berghuis,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,7.0,3,1.0
+Robert Skov,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,7.0,3,0.0
+Pedro Gonçalves,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,7.0,3,0.0
+Toni Kroos,2021-06-15 21:00:00,European Championship 2020,Germany,France,7.0,3,6.0
+Hans Vanaken,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,7.0,3,0.0
+Matteo Politano,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,7.0,4,0.0
+Tammy Abraham,2021-06-13 15:00:00,European Championship 2020,England,Croatia,7.0,4,0.0
+Nabil Fekir,2021-06-15 21:00:00,European Championship 2020,France,Germany,7.0,3,0.0
+Divock Origi,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,7.0,4,0.0
+Artem Kravets,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,7.0,4,0.0
+Jesse Lingard,2021-06-13 15:00:00,European Championship 2020,England,Croatia,7.0,3,1.0
+Moise Kean,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,7.0,4,2.0
+Sebastian Larsson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,7.0,4,0.0
+Corentin Tolisso,2021-06-15 21:00:00,European Championship 2020,France,Germany,7.0,3,0.0
+Frenkie de Jong,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,7.0,3,13.0
+Ansu Fati,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,7.0,4,0.0
+Steven Zuber,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,7.0,3,0.0
+Vladimir Weiss,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,7.0,3,0.0
+Ante Budimir,2021-06-13 15:00:00,European Championship 2020,Croatia,England,7.0,4,0.0
+Christian Benteke,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,7.0,4,1.0
+Wissam Ben Yedder,2021-06-15 21:00:00,European Championship 2020,France,Germany,7.0,4,0.0
+Christoph Baumgartner,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,7.0,3,0.0
+Nicolò Barella,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,7.0,3,2.0
+Antonin Barak,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,7.0,3,0.0
+Roman Yaremchuk,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,7.0,4,0.0
+Marko Arnautovic,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,7.0,4,2.0
+Xherdan Shaqiri,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,7.0,3,2.0
+Louis Schaub,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,7.0,3,0.0
+Ryan Babel,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,7.0,3,0.0
+Josip Brekalo,2021-06-13 15:00:00,European Championship 2020,Croatia,England,7.0,3,0.0
+Dejan Kulusevski,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,7.0,3,1.0
+Michael Krmencik,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,7.0,4,0.0
+Ryan Christie,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,7.0,3,0.0
+Sergio Ramos,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,7.0,2,2.0
+Koke,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,7.0,3,0.0
+Viktor Claesson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,7.0,3,0.0
+Yannick Carrasco,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,7.0,3,2.0
+Dominic Calvert-Lewin,2021-06-13 15:00:00,European Championship 2020,England,Croatia,7.0,4,1.0
+Piotr Zielinski,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,7.0,3,2.0
+Kasper Dolberg,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,7.0,4,0.0
+Jéremy Doku,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,7.0,4,0.0
+Kamil Grosicki,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,6.5,3,0.0
+Dani Ceballos,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,6.5,3,0.0
+Hal Robson-Kanu,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,6.5,4,0.0
+Oliver Burke,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,6.5,4,0.0
+Thomas Goiginger,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.5,3,0.0
+Virgil van Dijk,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,6.5,2,1.0
+Philipp Wiesinger,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.5,3,0.0
+Nicolò Zaniolo,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,6.5,3,0.0
+Ilija Nestorovski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,6.5,4,0.0
+Gernot Trauner,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.5,3,0.0
+Antonio Čolak,2021-06-13 15:00:00,European Championship 2020,Croatia,England,6.5,4,0.0
+Amin Younes,2021-06-15 21:00:00,European Championship 2020,Germany,France,6.5,3,0.0
+Lucas Hernández,2021-06-15 21:00:00,European Championship 2020,France,Germany,6.5,2,2.0
+Mateusz Klich,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,6.5,3,1.0
+Alessandro Schöpf,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.5,3,0.0
+Roland Sallai,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,6.5,4,0.0
+Leandro Trossard,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,6.5,4,0.0
+Ivan Trickovski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,6.5,4,0.0
+Youri Tielemans,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,6.5,3,10.0
+Pablo Sarabia,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,6.5,3,0.0
+Bukayo Saka,2021-06-13 15:00:00,European Championship 2020,England,Croatia,6.5,3,0.0
+Rafa Silva,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,6.5,3,0.0
+Adrien Rabiot,2021-06-15 21:00:00,European Championship 2020,France,Germany,6.5,3,0.0
+Dennis Praet,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,6.5,3,0.0
+Jakub Pesek,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.5,3,0.0
+Goran Pandev,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,6.5,4,1.0
+Mislav Orsic,2021-06-13 15:00:00,European Championship 2020,Croatia,England,6.5,3,1.0
+Karim Onisiwo,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.5,3,0.0
+Andreas Skov Olsen,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,6.5,4,0.0
+Kevin Nisbet,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,6.5,4,0.0
+Kieffer Moore,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,6.5,4,1.0
+Kristijan Lovrić,2021-06-13 15:00:00,European Championship 2020,Croatia,England,6.5,3,0.0
+Admir Mehmedi,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,6.5,4,0.0
+Lorenzo Pellegrini,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,6.5,3,0.0
+Iago Aspas,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,6.5,4,0.0
+Christoph Monschein,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.5,4,0.0
+Viktor Tsygankov,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,6.5,3,0.0
+Tomáš Souček,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.5,3,10.0
+Riccardo Orsolini,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,6.5,3,0.0
+Albert Rusnák,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,6.5,3,0.0
+Karol Linetty,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,6.5,3,0.0
+Valentino Lazaro,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.5,3,0.0
+Daler Kuzyaev,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,6.5,3,0.0
+Andrej Kramaric,2021-06-13 15:00:00,European Championship 2020,Croatia,England,6.5,4,1.0
+Kenan Karaman,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,6.5,4,0.0
+Gerard Moreno,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,6.5,4,11.0
+Ondrej Duda,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,6.5,3,0.0
+Daniel James,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,6.5,3,1.0
+Lyndon Dykes,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,6.5,4,0.0
+Leon Goretzka,2021-06-15 21:00:00,European Championship 2020,Germany,France,6.5,3,2.0
+Gonçalo Guedes,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,6.5,3,0.0
+Fedor Smolov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,6.5,4,0.0
+Raphael Guerreiro,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,6.5,2,2.0
+Matej Vydra,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.5,4,0.0
+Nikola Vlasic,2021-06-13 15:00:00,European Championship 2020,Croatia,England,6.5,3,0.0
+Francisco Trincão,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,6.5,3,0.0
+Marco Verratti,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,6.5,3,3.0
+Ruben Vargas,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,6.5,3,0.0
+Donny van de Beek,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,6.5,3,2.0
+David Brooks,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,6.5,3,0.0
+Marcelo Brozovic,2021-06-13 15:00:00,European Championship 2020,Croatia,England,6.5,3,0.0
+Stuart Armstrong,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,6.5,3,0.0
+Trent Alexander-Arnold,2021-06-13 15:00:00,European Championship 2020,England,Croatia,6.5,2,12.0
+Aleksey Miranchuk,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,6.5,4,0.0
+Danny Ings,2021-06-13 15:00:00,European Championship 2020,England,Croatia,6.5,4,0.0
+Josip Drmic,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,6.5,4,0.0
+Marcus Ingvartsen,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,6.5,4,0.0
+Leigh Griffiths,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,6.5,4,0.0
+Mason Greenwood,2021-06-13 15:00:00,European Championship 2020,England,Croatia,6.5,4,2.0
+Adrian Grbić,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.5,4,0.0
+John Guidetti,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,6.5,4,0.0
+Husein Balić,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.5,3,0.0
+Anwar El Ghazi,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,6.5,3,0.0
+Nicolai Jørgensen,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,6.5,4,0.0
+Che Adams,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,6.5,4,1.0
+Michy Batshuayi,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,6.5,4,0.0
+Thomas Lemar,2021-06-15 21:00:00,European Championship 2020,France,Germany,6.5,3,0.0
+Dominik Szoboszlai,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,6.5,3,1.0
+Ryan Fraser,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,6.5,3,0.0
+Lukáš Provod,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.5,3,0.0
+Miroslav Stoch,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,6.5,3,0.0
+Toma Bašić,2021-06-13 15:00:00,European Championship 2020,Croatia,England,6.5,3,0.0
+Steven Fletcher,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,6.0,4,1.0
+Lasse Schöne,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,6.0,3,0.0
+Christian Fassnacht,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,6.0,3,0.0
+Yusuf Demir,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.0,3,0.0
+Damian Kądzior,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,6.0,3,0.0
+James Forrest,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,6.0,3,0.0
+Agim Ibraimi,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,6.0,4,0.0
+Callum Hudson-Odoi,2021-06-13 15:00:00,European Championship 2020,England,Croatia,6.0,3,0.0
+Pione Sisto,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,6.0,3,0.0
+Rasmus Falk,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,6.0,3,0.0
+Ollie Watkins,2021-06-13 15:00:00,European Championship 2020,England,Croatia,6.0,4,0.0
+Cédric Itten,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,6.0,4,0.0
+Stanislav Tecl,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.0,4,0.0
+Cody Gakpo,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,6.0,4,0.0
+Rúben Dias,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,6.0,2,42.0
+Magomed Ozdoev,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,6.0,3,0.0
+Manuel Neuer,2021-06-15 21:00:00,European Championship 2020,Germany,France,6.0,1,12.0
+Ozan Tufan,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,6.0,3,0.0
+Jakub Moder,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,6.0,3,0.0
+Lukas Masopust,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.0,3,0.0
+Marlos,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,6.0,3,0.0
+Donyell Malen,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,6.0,4,2.0
+Radim Breite,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.0,3,0.0
+Scott McTominay,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,6.0,3,2.0
+Hugo Lloris,2021-06-15 21:00:00,European Championship 2020,France,Germany,6.0,1,8.0
+Justin Kluivert,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,6.0,3,0.0
+Jordi Alba,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,6.0,2,10.0
+Konrad Laimer,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.0,3,0.0
+Vincenzo Grifo,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,6.0,3,0.0
+Thibaut Courtois,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,6.0,1,27.0
+Juraj Kucka,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,6.0,3,0.0
+Andreas Cornelius,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,6.0,4,0.0
+Grzegorz Krychowiak,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,6.0,3,0.0
+Dawid Kownacki,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,6.0,4,0.0
+Mateo Kovacic,2021-06-13 15:00:00,European Championship 2020,Croatia,England,6.0,3,1.0
+Lukas Lerager,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,6.0,3,0.0
+Joshua Kimmich,2021-06-15 21:00:00,European Championship 2020,Germany,France,6.0,3,23.0
+João Cancelo,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,6.0,2,23.0
+Christian Gytkjær,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,6.0,4,0.0
+Glen Kamara,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,6.0,3,0.0
+Philip Billing,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,6.0,3,0.0
+Lucas Andersen,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,6.0,3,0.0
+Oleksandr Zubkov,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,6.0,4,0.0
+Mathias Jensen,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,6.0,3,0.0
+Róbert Boženík,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,6.0,4,0.0
+Roman Zobnin,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,6.0,3,0.0
+Anton Miranchuk,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,6.0,3,0.0
+Lucas Digne,2021-06-15 21:00:00,European Championship 2020,France,Germany,6.0,2,3.0
+Raphael Varane,2021-06-15 21:00:00,European Championship 2020,France,Germany,6.0,2,10.0
+Przemyslaw Frankowski,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,6.0,3,0.0
+Yuri Zhirkov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,6.0,3,0.0
+Rifat Zhemaletdinov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,6.0,3,0.0
+Michal Duris,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,6.0,4,0.0
+Jordan Henderson,2021-06-13 15:00:00,European Championship 2020,England,Croatia,6.0,3,1.0
+Ahmed Kutucu,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,6.0,3,0.0
+Granit Xhaka,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,6.0,3,1.0
+Ladislav Krejčí,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.0,3,0.0
+Alessandro Florenzi,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,6.0,2,11.0
+Luca Waldschmidt,2021-06-15 21:00:00,European Championship 2020,Germany,France,6.0,4,0.0
+Roman Bezus,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,6.0,3,0.0
+Florian Grillitsch,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.0,3,0.0
+Dávid Strelec,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,6.0,4,0.0
+Jonas Wind,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,6.0,4,1.0
+Lukáš Haraslín,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,6.0,3,0.0
+Darko Churlinov,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,6.0,3,0.0
+Brennan Johnson,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,6.0,3,0.0
+Ben Chilwell,2021-06-13 15:00:00,European Championship 2020,England,Croatia,6.0,2,7.0
+Kevin Varga,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,6.0,3,0.0
+Artem Besedin,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,6.0,4,0.0
+Nacer Chadli,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,6.0,3,0.0
+Jude Bellingham,2021-06-13 15:00:00,European Championship 2020,England,Croatia,6.0,3,0.0
+Petr Ševčík,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.0,3,0.0
+Julian Baumgartlinger,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.0,3,0.0
+Luke Shaw,2021-06-13 15:00:00,European Championship 2020,England,Croatia,6.0,2,18.0
+Enis Bardhi,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,6.0,3,0.0
+Bořek Dočkal,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.0,3,0.0
+Eljif Elmas,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,6.0,3,0.0
+Kamil Jozwiak,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,6.0,3,0.0
+Ádám Szalai,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,6.0,4,0.0
+Thiago Alcántara,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,6.0,3,2.0
+Sebastian Larsson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,6.0,3,0.0
+Michal Sáček,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.0,3,0.0
+Martin Doležal,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.0,4,0.0
+Enes Ünal,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,6.0,4,2.0
+Jakub Jankto,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.0,3,0.0
+Kevin Lasagna,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,6.0,4,0.0
+Zdeněk Ondrášek,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.0,4,0.0
+David Pavelka,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.0,3,0.0
+Adnan Januzaj,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,6.0,3,0.0
+Paulinho,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,6.0,4,0.0
+Tomáš Malinský,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.0,3,0.0
+Dani Carvajal,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,6.0,2,0.0
+Aymeric Laporte,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,6.0,2,4.0
+Oli McBurnie,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,6.0,4,0.0
+Tom Lawrence,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,6.0,3,0.0
+Jan Kopic,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,6.0,3,0.0
+Dejan Ljubicic,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.0,3,0.0
+Konstantin Kuchaev,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,6.0,3,0.0
+Jesper Karlsson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,6.0,3,0.0
+Michał Karbownik,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,6.0,3,0.0
+Jakob Jantscher,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.0,3,0.0
+Sebastian Szymański,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,6.0,3,0.0
+Stefan Schwab,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.0,3,0.0
+Stefan Hierländer,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.0,3,0.0
+Jorginho,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,6.0,3,1.0
+Matteo Pessina,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,6.0,3,0.0
+Domenico Berardi,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,6.0,3,1.0
+Ján Greguš,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,6.0,3,0.0
+Mikkel Damsgaard,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,6.0,3,0.0
+Pedri,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,6.0,3,1.0
+Roberto Soriano,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,6.0,3,0.0
+Reinhold Ranftl,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.0,3,0.0
+Ivan Petriak,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,6.0,4,0.0
+Albian Ajeti,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,6.0,4,0.0
+Peter Žulj,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.0,3,0.0
+Aleksandr Erokhin,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,6.0,3,0.0
+Isaac Kiese Thelin,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,6.0,4,0.0
+Deniz Türüc,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,6.0,3,0.0
+Sam Vokes,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,6.0,4,0.0
+Yari Verschaeren,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,6.0,3,0.0
+Raphael Holzhauser,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,6.0,3,0.0
+Benjamin Pavard,2021-06-15 21:00:00,European Championship 2020,France,Germany,6.0,2,9.0
+Tyler Roberts,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,6.0,4,0.0
+Tomas Suslov,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,6.0,3,0.0
+Alexander Sobolev,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,6.0,4,0.0
+Júnior Moraes,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,6.0,4,0.0
+Serhiy Sydorchuk,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,6.0,3,0.0
+Sérgio Oliveira,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,6.0,3,0.0
+Karol Swiderski,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,6.0,4,0.0
+Stefano Sensi,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,6.0,3,0.0
+Giorgio Chiellini,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,6.0,2,2.0
+Fabián Ruiz,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,6.0,3,0.0
+Renato Sanches,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,6.0,3,1.0
+Joel Pohjanpalo,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,6.0,4,0.0
+Jacek Góralski,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,6.0,3,0.0
+Hélder Costa,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,6.0,3,0.0
+Bruno Petkovic,2021-06-13 15:00:00,European Championship 2020,Croatia,England,6.0,4,0.0
+Przemyslaw Placheta,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,6.0,3,0.0
+Renato Steffen,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,6.0,3,0.0
+Niklas Süle,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.5,2,1.0
+Luka Ivanušec,2021-06-13 15:00:00,European Championship 2020,Croatia,England,5.5,3,0.0
+János Hahn,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.5,4,0.0
+Giacomo Raspadori,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,5.5,4,0.0
+Jurriën Timber,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.5,3,1.0
+Jakub Swierczok,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,5.5,4,1.0
+Denis Makarov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.5,4,0.0
+Halil Dervisoglu,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.5,3,0.0
+David Turnbull,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,5.5,3,1.0
+Yusuf Yazici,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.5,3,3.0
+Mario Fernandes,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.5,2,0.0
+Robin Lod,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,5.5,3,0.0
+Oleksandr Andriievskyi,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.5,3,0.0
+Bogdan Lednev,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.5,3,0.0
+Albin Ekdal,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.5,3,1.0
+Dávid Sigér,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.5,3,0.0
+Andreas Christensen,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,5.5,3,0.0
+Mykola Shaparenko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.5,3,1.0
+Tamas Cseri,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.5,3,0.0
+Pierre-Emile Højbjerg,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,5.5,3,3.0
+Ferhan Hasani,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.5,3,0.0
+Marcus Forss,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,5.5,4,1.0
+Remo Freuler,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,5.5,3,0.0
+Kyle Walker,2021-06-13 15:00:00,European Championship 2020,England,Croatia,5.5,2,8.0
+John Fleck,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,5.5,3,0.0
+John Stones,2021-06-13 15:00:00,European Championship 2020,England,Croatia,5.5,2,11.0
+Vlatko Stojanovski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.5,4,0.0
+Leonardo Spinazzola,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,5.5,2,3.0
+Taras Stepanenko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.5,3,0.0
+Stefan Spirovski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.5,3,0.0
+Antonio Rüdiger,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.5,2,12.0
+Tim Sparv,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,5.5,3,0.0
+Djibril Sow,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,5.5,3,0.0
+Pyry Soiri,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,5.5,3,0.0
+Matthew Smith,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,5.5,3,0.0
+Ken Sema,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.5,3,0.0
+Mattias Svanberg,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.5,3,0.0
+Ricardo Rodríguez,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,5.5,2,2.0
+Rui Patrício,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,5.5,1,7.0
+Rúben Neves,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,5.5,3,1.0
+Andrew Robertson,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,5.5,2,16.0
+Declan Rice,2021-06-13 15:00:00,European Championship 2020,England,Croatia,5.5,3,2.0
+Marjan Radeski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.5,4,0.0
+Jordan Pickford,2021-06-13 15:00:00,European Championship 2020,England,Croatia,5.5,1,3.0
+Okay Yokuslu,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.5,3,0.0
+Nemanja Nikolics,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.5,4,0.0
+Christian Nørgaard,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,5.5,3,0.0
+Thomas Meunier,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,5.5,2,9.0
+Jamal Musiala,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.5,3,1.0
+Andrey Mostovoy,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.5,3,0.0
+Efecan Karaca,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.5,3,1.0
+Halil Akbunar,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.5,3,0.0
+Harry Maguire,2021-06-13 15:00:00,European Championship 2020,England,Croatia,5.5,2,9.0
+James Ward-Prowse,2021-06-13 15:00:00,European Championship 2020,England,Croatia,5.5,3,1.0
+Callum McGregor,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,5.5,3,0.0
+Yevhenii Makarenko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.5,3,0.0
+Victor Lindelöf,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.5,2,1.0
+Manuel Locatelli,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,5.5,3,1.0
+Jasper Cillessen,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.5,1,4.0
+Stanislav Lobotka,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.5,3,0.0
+Clément Lenglet,2021-06-15 21:00:00,European Championship 2020,France,Germany,5.5,2,1.0
+Bogdan Mykhaylichenko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.5,3,0.0
+Viktor Kovalenko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.5,3,0.0
+Presnel Kimpembe,2021-06-15 21:00:00,European Championship 2020,France,Germany,5.5,2,7.0
+Bryan Cristante,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,5.5,3,0.0
+Alex Kral,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,5.5,3,0.0
+Tihomir Kostadinov,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.5,3,0.0
+Davy Klaassen,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.5,3,1.0
+Timothy Castagne,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,5.5,2,6.0
+Joni Kauko,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,5.5,3,0.0
+Filip Holender,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.5,3,0.0
+N'Golo Kanté,2021-06-15 21:00:00,European Championship 2020,France,Germany,5.5,3,40.0
+Jacob Bruun Larsen,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,5.5,3,0.0
+Xaver Schlager,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,5.5,3,0.0
+Kristoffer Olsson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.5,3,0.0
+Krste Velkoski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.5,4,0.0
+Fredrik Jensen,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,5.5,3,0.0
+Jonas Hofmann,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.5,3,0.0
+Irfan Can Kahveci,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.5,3,0.0
+Stefan Ilsanker,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,5.5,3,0.0
+Kurt Zouma,2021-06-15 21:00:00,European Championship 2020,France,Germany,5.5,2,1.0
+Oleksandr Zinchenko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.5,2,7.0
+Jens Jonsson,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,5.5,3,0.0
+Denzel Dumfries,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.5,2,1.0
+Anton Zabolotny,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.5,4,0.0
+Jimmy Durmaz,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.5,3,0.0
+João Moutinho,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,5.5,3,0.0
+Matús Bero,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.5,3,0.0
+Emre Can,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.5,2,0.0
+Thomas Delaney,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,5.5,3,0.0
+Matthijs de Ligt,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.5,2,39.0
+Leander Dendoncker,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,5.5,3,0.0
+David de Gea,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,5.5,1,4.0
+Marten de Roon,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.5,3,0.0
+Stefan de Vrij,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.5,2,1.0
+Kamil Glik,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,5.5,2,0.0
+Dani Olmo,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,5.5,3,0.0
+Jordan Larsson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.5,4,1.0
+Gianluigi Donnarumma,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,5.5,1,25.0
+Patrik Hrosovsky,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.5,3,0.0
+Michael Gregoritsch,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,5.5,4,0.0
+Adam Hložek,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,5.5,4,0.0
+Jan Vertonghen,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,5.5,2,1.0
+Axel Witsel,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,5.5,3,1.0
+Patrick van Aanholt,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.5,2,1.0
+Leonardo Bonucci,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,5.5,2,5.0
+Onni Valakari,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,5.5,3,0.0
+Sergio Busquets,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,5.5,3,1.0
+Ben Davies,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,5.5,2,0.0
+Ludwig Augustinsson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.5,2,0.0
+Toby Alderweireld,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,5.5,2,4.0
+Joe Allen,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,5.5,3,0.0
+Andreas Christensen,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,5.5,2,1.0
+David Alaba,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,5.5,3,15.0
+Arijan Ademi,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.5,3,0.0
+Abdülkadir Ömür,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.5,3,0.0
+Ádám Nagy,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.5,3,0.0
+Daniel Avramovski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.5,3,0.0
+George Thomas,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,5.5,3,0.0
+Jonas Hector,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.5,2,0.0
+Zsolt Kalmár,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.5,3,0.0
+Ryan Jack,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,5.5,3,0.0
+Ben Woodburn,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,5.5,3,0.0
+Dusko Trajcevski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.5,3,0.0
+Ennur Totre,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.5,3,0.0
+Lassi Lappalainen,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,5.5,3,0.0
+Yevhen Shakhov,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.5,3,0.0
+Fedor Chalov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.5,4,0.0
+Sergi Roberto,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,5.5,3,0.0
+Marc-André ter Stegen,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.5,1,0.0
+Sandro Tonali,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,5.5,3,0.0
+Samuel Umtiti,2021-06-15 21:00:00,European Championship 2020,France,Germany,5.5,2,0.0
+Jesús Navas,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,5.5,2,0.0
+Emerson,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,5.5,2,0.0
+Ivan Schranz,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.5,4,0.0
+Aleksey Ionov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.5,4,0.0
+Sam Larsson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.5,3,0.0
+Ondrej Lingr,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,5.5,3,0.0
+Artem Dovbyk,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.5,4,0.0
+Daniel Podence,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,5.5,3,0.0
+Yunus Mallı,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.5,3,0.0
+Ferland Mendy,2021-06-15 21:00:00,European Championship 2020,France,Germany,5.5,2,0.0
+Emre Kılınç,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.5,3,0.0
+Mikel Merino,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,5.5,3,0.0
+Lawrence Shankland,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,5.5,4,0.0
+Marian Shved,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.5,4,0.0
+Calvin Stengs,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.5,3,0.0
+Pajtim Kasami,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,5.5,3,0.0
+Florian Kainz,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,5.5,3,0.0
+Krisztián Simon,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.5,4,0.0
+Adam Zreľák,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.5,4,0.0
+Zelimkhan Bakaev,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.5,3,0.0
+Vladyslav Kochergin,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.5,3,0.0
+Vladyslav Kulach,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.5,4,0.0
+André Gomes,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,5.5,3,0.0
+Bartosz Slisz,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,5.5,3,0.0
+Alexis Saelemaekers,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,5.5,3,0.0
+Erik Sabo,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.5,3,0.0
+Sebastian Rudy,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.5,3,0.0
+Davy Pröpper,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.5,3,0.0
+Ljupche Doriev,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.5,4,0.0
+Callum Paterson,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,5.5,4,0.0
+Oğuzhan Özyakup,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.5,3,0.0
+Tanguy Ndombélé,2021-06-15 21:00:00,European Championship 2020,France,Germany,5.5,3,0.0
+Samuel Mráz,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.5,3,0.0
+Jaroslav Mihalík,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.5,3,0.0
+Kenny McLean,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,5.5,3,0.0
+Nikolai Komlichenko,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.5,4,0.0
+Norbert Könyves,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.5,4,0.0
+Tom Cairney,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,5.5,3,0.0
+Francesco Caputo,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,5.5,4,0.0
+Adrián Szőke,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.5,4,0.0
+Ádám Gyurcsó,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.5,4,0.0
+Yuri Gazinski,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.5,3,0.0
+Ilzat Akhmetov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.5,3,0.0
+Nadiem Amiri,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.5,3,0.0
+Philipp Lienhart,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,5.0,2,0.0
+Dejan Lovren,2021-06-13 15:00:00,European Championship 2020,Croatia,England,5.0,2,1.0
+Mikael Lustig,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.0,2,0.0
+Marcos Llorente,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,5.0,3,7.0
+Kevin Mbabu,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,5.0,2,1.0
+Dean Henderson,2021-06-13 15:00:00,European Championship 2020,England,Croatia,5.0,1,1.0
+Merih Demiral,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.0,2,1.0
+Joe Morrell,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,5.0,3,0.0
+Maksim Mukhin,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.0,3,0.0
+Grant Hanley,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,5.0,2,0.0
+Boban Nikolov,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.0,3,0.0
+Florian Neuhaus,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.0,3,0.0
+Orkun Kökcü,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.0,3,0.0
+Peter Pekarík,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.0,2,0.0
+Wayne Hennessey,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,5.0,1,0.0
+Vladimir Coufal,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,5.0,2,9.0
+Çaglar Söyüncü,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.0,2,7.0
+Pepe,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,5.0,2,5.0
+Andriy Pyatov,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.0,1,0.0
+Rodrigo,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,5.0,3,12.0
+Duje Caleta-Car,2021-06-13 15:00:00,European Championship 2020,Croatia,England,5.0,2,0.0
+Maciej Rybus,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,5.0,2,0.0
+Gustav Svensson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.0,3,0.0
+Nélson Semedo,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,5.0,2,1.0
+Andras Schafer,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.0,3,0.0
+Fabian Schär,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,5.0,2,1.0
+Milan Skriniar,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.0,2,1.0
+Kasper Schmeichel,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,5.0,1,20.0
+Anton Shunin,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.0,1,0.0
+Rasmus Schüller,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,5.0,3,0.0
+Wojciech Szczesny,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,5.0,1,6.0
+Kieran Tierney,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,5.0,2,7.0
+Alexander Fransson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.0,3,0.0
+Volodymyr Shepeliev,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.0,3,0.0
+Moussa Sissoko,2021-06-15 21:00:00,European Championship 2020,France,Germany,5.0,3,1.0
+Craig Gordon,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,5.0,1,0.0
+Kalvin Phillips,2021-06-13 15:00:00,European Championship 2020,England,Croatia,5.0,3,1.0
+Martin Škrtel,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.0,2,0.0
+Pavel Mogilevets,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.0,3,0.0
+Rasmus Karjalainen,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,5.0,4,0.0
+Lasse Karjalainen,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,5.0,3,0.0
+Mattia De Sciglio,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,5.0,2,0.0
+Manuel Akanji,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,5.0,2,1.0
+Jannik Vestergaard,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,5.0,2,2.0
+Yann Sommer,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,5.0,1,3.0
+Erik Jirka,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.0,3,0.0
+Heinz Lindner,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,5.0,1,0.0
+Taylan Antalyali,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.0,3,0.0
+Thomas Vermaelen,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,5.0,2,0.0
+Hans Hateboer,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.0,2,0.0
+Martin Olsson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.0,2,0.0
+Edimilson Fernandes,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,5.0,3,0.0
+Rabbi Matondo,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,5.0,3,0.0
+Mats Hummels,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.0,2,1.0
+Stefan Aškovski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.0,2,0.0
+Gaetano Castrovilli,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,5.0,3,0.0
+Muhammed Kerem Aktürkoglu,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.0,3,0.0
+Dan Ndoye,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,5.0,4,1.0
+Joël Veltman,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.0,2,0.0
+Abdulkadir Parmak,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.0,3,0.0
+Kieran Trippier,2021-06-13 15:00:00,European Championship 2020,England,Croatia,5.0,2,2.0
+Sime Vrsaljko,2021-06-13 15:00:00,European Championship 2020,Croatia,England,5.0,2,1.0
+Houssem Aouar,2021-06-15 21:00:00,European Championship 2020,France,Germany,5.0,3,0.0
+Benjamin Mendy,2021-06-15 21:00:00,European Championship 2020,France,Germany,5.0,2,0.0
+Ethan Ampadu,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,5.0,3,1.0
+Berkay Özcan,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.0,3,0.0
+Billy Gilmour,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,5.0,3,1.0
+Mark Harris,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,5.0,3,0.0
+Tomás Vaclik,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,5.0,1,0.0
+Artem Bondarenko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.0,3,0.0
+Myron Boadu,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.0,4,1.0
+Benjamin Babati,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.0,4,0.0
+Cristiano Biraghi,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,5.0,2,0.0
+Serhiy Bolbat,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.0,3,0.0
+Chris Gunter,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,5.0,2,0.0
+Eamonn Brophy,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,5.0,4,0.0
+Maximilian Wöber,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,5.0,2,0.0
+Gökhan Gönül,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.0,2,0.0
+William Carvalho,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,5.0,3,1.0
+Krisztián Géresi,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.0,4,0.0
+César Azpilicueta,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,5.0,2,3.0
+Milan Ristovski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.0,4,0.0
+Teun Koopmeiners,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.0,3,1.0
+László Bénes,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.0,3,0.0
+José Gayà,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,5.0,2,1.0
+Szabolcs Schön,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.0,4,0.0
+Domagoj Vida,2021-06-13 15:00:00,European Championship 2020,Croatia,England,5.0,2,0.0
+Mahmoud Dahoud,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.0,3,0.0
+Adama Traoré,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,5.0,3,3.0
+Daley Blind,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.0,2,3.0
+Dimitri Barinov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.0,3,0.0
+Milan Badelj,2021-06-13 15:00:00,European Championship 2020,Croatia,England,5.0,3,0.0
+Francesco Acerbi,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,5.0,2,0.0
+Jakub Hromada,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.0,3,0.0
+Robert Taylor,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,5.0,3,0.0
+Lukasz Fabianski,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,5.0,1,2.0
+Marcus Rohdén,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.0,3,0.0
+Anthony Lopes,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,5.0,1,0.0
+Nikolai Alho,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,5.0,3,0.0
+Nathan Aké,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.0,2,2.0
+Vitaliy Buyalskiy,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.0,3,0.0
+Matthias Ginter,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.0,2,0.0
+Robin Gosens,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.0,2,1.0
+Florian Wirtz,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.0,3,0.0
+Ryan Gravenberch,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.0,3,1.0
+Sebastian Kowalczyk,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,5.0,3,0.0
+Caner Erkin,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.0,2,0.0
+Andreas Granqvist,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.0,2,0.0
+Jonathan Ikoné,2021-06-15 21:00:00,European Championship 2020,France,Germany,5.0,3,0.0
+Tonny Vilhena,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.0,3,0.0
+Mahmut Tekdemir,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.0,3,0.0
+Unai Simón,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,5.0,1,1.0
+Roland Varga,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.0,4,1.0
+Peter Pokorný,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.0,3,0.0
+Eduardo Camavinga,2021-06-15 21:00:00,European Championship 2020,France,Germany,5.0,3,0.0
+Benjamin Källman,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,5.0,4,0.0
+Thilo Kehrer,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.0,2,0.0
+Robin Olsen,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.0,1,1.0
+Daniel Wass,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,5.0,2,1.0
+Michel Aebischer,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,5.0,3,0.0
+Maximilian Eggestein,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.0,3,0.0
+Gary Mackay-Steven,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,5.0,3,0.0
+Joshua Sheehan,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,5.0,3,0.0
+Rolando Mandragora,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,5.0,3,0.0
+Reziuan Mirzov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.0,3,0.0
+Bryan Gil,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,5.0,3,0.0
+Nico Schulz,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.0,2,0.0
+Steven Nzonzi,2021-06-15 21:00:00,European Championship 2020,France,Germany,5.0,3,0.0
+Will Vaulks,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,5.0,3,0.0
+Leroy Fer,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.0,3,0.0
+Gjorgji Stoilov,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.0,3,0.0
+Jasse Tuominen,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,5.0,4,0.0
+Cédric,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,5.0,2,0.0
+Jonathan Tah,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.0,2,0.0
+Ilmari Niskanen,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,5.0,3,0.0
+Ivan Oblyakov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.0,3,0.0
+Sergio Reguilón,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,5.0,2,0.0
+Rafael Leão,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,5.0,4,0.0
+Nick Pope,2021-06-13 15:00:00,European Championship 2020,England,Croatia,5.0,1,0.0
+Máté Pátkai,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.0,3,0.0
+Ricardo Rodríguez,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,5.0,3,0.0
+Arkadiusz Reca,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,5.0,2,0.0
+Marko Rog,2021-06-13 15:00:00,European Championship 2020,Croatia,England,5.0,3,0.0
+Alessio Romagnoli,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,5.0,2,0.0
+Darko Micevski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.0,3,0.0
+Pablo Rosario,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.0,3,0.0
+Kire Markoski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.0,4,0.0
+Mário Rui,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,5.0,2,0.0
+Suat Serdar,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.0,3,0.0
+Kevin Strootman,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,5.0,3,0.0
+Ihor Kharatin,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.0,3,0.0
+Reece James,2021-06-13 15:00:00,European Championship 2020,England,Croatia,5.0,2,1.0
+Martin Chrien,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.0,3,0.0
+Jonathan Williams,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,5.0,3,0.0
+Georgi Dzhikiya,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.0,2,0.0
+Sergio Canales,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,5.0,3,0.0
+Daniel Gazdag,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.0,3,0.0
+Iñigo Martínez,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,5.0,2,0.0
+Pavol Šafranko,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.0,4,0.0
+Simon Sohm,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,5.0,3,0.0
+Nikola Gjorgjev,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,5.0,3,0.0
+Enis Destan,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.0,4,0.0
+Nikolas Špalek,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.0,4,0.0
+Eric Dier,2021-06-13 15:00:00,European Championship 2020,England,Croatia,5.0,2,0.0
+Güven Yalçın,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.0,4,0.0
+Pawel Dawidowicz,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,5.0,2,0.0
+Daniil Fomin,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,5.0,3,0.0
+Giovanni Di Lorenzo,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,5.0,2,0.0
+Dorukhan Tokoz,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.0,3,0.0
+Aleksandar Dragovic,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,5.0,2,0.0
+José Fonte,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,5.0,2,0.0
+Filip Helander,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.0,2,0.0
+Martin Dubravka,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,5.0,1,1.0
+João Palhinha,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,5.0,3,0.0
+Denis Zakaria,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,5.0,3,2.0
+Kaan Ayhan,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,5.0,2,0.0
+Pavel Kaderábek,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,5.0,2,0.0
+Oleksandr Karavaev,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,5.0,2,0.0
+Jens Cajuste,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,5.0,3,0.0
+László Kleinheisler,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,5.0,3,0.0
+Kacper Kozlowski,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,5.0,3,0.0
+Stefan Lainer,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,5.0,2,0.0
+Dylan Levitt,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,5.0,3,0.0
+Bernd Leno,2021-06-15 21:00:00,European Championship 2020,Germany,France,5.0,1,0.0
+Dominik Livakovic,2021-06-13 15:00:00,European Championship 2020,Croatia,England,5.0,1,1.0
+Jules Koundé,2021-06-15 21:00:00,European Championship 2020,France,Germany,4.5,2,0.0
+Mattias Johansson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,4.5,2,0.0
+Sebastian Holmén,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,4.5,2,0.0
+Patrizio Stronati,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.5,2,0.0
+Carl Starfelt,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,4.5,2,0.0
+Pontus Jansson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,4.5,2,0.0
+Josip Juranovic,2021-06-13 15:00:00,European Championship 2020,Croatia,England,4.5,2,0.0
+Karl-Johan Johnsson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,4.5,1,0.0
+Nico Elvedi,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,4.5,2,1.0
+Eric García,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,4.5,2,2.0
+Mile Skoric,2021-06-13 15:00:00,European Championship 2020,Croatia,England,4.5,2,0.0
+Ľubomír Šatka,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.5,2,0.0
+Ondrej Celustka,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.5,2,0.0
+Martin Hinteregger,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,4.5,2,3.0
+Michal Helik,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.5,2,0.0
+Pavao Pervan,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,4.5,1,0.0
+Marcel Halstenberg,2021-06-15 21:00:00,European Championship 2020,Germany,France,4.5,2,0.0
+Marco Friedl,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,4.5,2,0.0
+Jere Uronen,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.5,2,0.0
+Umut Meras,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.5,2,0.0
+Andreas Ulmer,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,4.5,2,0.0
+Ugurcan Çakir,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.5,1,1.0
+Oleksandr Tymchyk,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.5,2,0.0
+Anatolii Trubin,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.5,1,0.0
+Kevin Trapp,2021-06-15 21:00:00,European Championship 2020,Germany,France,4.5,1,0.0
+Greg Taylor,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.5,2,0.0
+Jens Stryger Larsen,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,4.5,2,0.0
+Maarten Stekelenburg,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,4.5,1,0.0
+Eduard Sobol,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.5,2,0.0
+Simon Sluga,2021-06-13 15:00:00,European Championship 2020,Croatia,England,4.5,1,0.0
+Salvatore Sirigu,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,4.5,1,0.0
+Andrey Semenov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.5,2,0.0
+Robert Sánchez,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,4.5,1,0.0
+Sotirios Papagiannopoulos,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,4.5,2,0.0
+Filip Novák,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.5,2,0.0
+Joe Rodon,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,4.5,2,1.0
+Marek Rodák,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.5,1,0.0
+Frederik Rönnow,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,4.5,1,0.0
+Joakim Nilsson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,4.5,2,0.0
+Gianluca Mancini,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,4.5,2,0.0
+Andriy Lunin,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.5,1,1.0
+Pau Torres,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,4.5,2,17.0
+Andrey Lunev,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.5,1,0.0
+Jirí Pavlenka,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.5,1,0.0
+Willi Orban,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.5,2,0.0
+Jonas Omlin,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,4.5,1,0.0
+Ozan Kabak,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.5,2,4.0
+Stephen O'Donnell,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.5,2,0.0
+Attila Szalai,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.5,2,0.0
+Nuno Mendes,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,4.5,2,0.0
+Rhys Norrington-Davies,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,4.5,2,0.0
+Kristoffer Nordfeldt,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,4.5,1,0.0
+James Lawrence,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,4.5,2,0.0
+Ondrej Kudela,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.5,2,0.0
+Neco Williams,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,4.5,2,0.0
+Visar Musliu,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,4.5,2,0.0
+Simon Mignolet,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,4.5,1,0.0
+Vitaliy Mykolenko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.5,2,0.0
+Chris Mepham,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,4.5,2,0.0
+Mert Müldür,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.5,2,0.0
+Mert Günok,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.5,1,0.0
+Alex Meret,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,4.5,1,0.0
+Joakim Maehle,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,4.5,2,2.0
+Yvon Mvogo,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,4.5,1,0.0
+Aleš Matějů,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.5,2,0.0
+Mykola Matvyenko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.5,2,0.0
+David Marshall,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.5,1,1.0
+Steve Mandanda,2021-06-15 21:00:00,European Championship 2020,France,Germany,4.5,1,0.0
+Scott McKenna,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.5,2,0.0
+Mathias Jensen,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,4.5,2,0.0
+Diego Llorente,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,4.5,2,1.0
+Jonas Lössl,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,4.5,1,0.0
+Tom Lockyer,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,4.5,2,0.0
+Liam Cooper,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.5,2,0.0
+Simon Kjaer,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,4.5,2,23.0
+Dusan Kuciak,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.5,1,0.0
+Fedor Kudryashov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.5,2,0.0
+Tim Krul,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,4.5,1,4.0
+Serhii Kryvtsov,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.5,2,0.0
+Emil Krafth,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,4.5,2,0.0
+Robin Koch,2021-06-15 21:00:00,European Championship 2020,Germany,France,4.5,2,0.0
+Conor Coady,2021-06-13 15:00:00,European Championship 2020,England,Croatia,4.5,2,0.0
+Lukas Klostermann,2021-06-15 21:00:00,European Championship 2020,Germany,France,4.5,2,1.0
+Tomasz Kedziora,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.5,2,0.0
+Vyacheslav Karavaev,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.5,2,0.0
+Lovre Kalinic,2021-06-13 15:00:00,European Championship 2020,Croatia,England,4.5,1,0.0
+Tomas Kalas,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.5,2,0.0
+Ben Cabango,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,4.5,2,0.0
+Connor Roberts,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,4.5,2,0.0
+Jesse Joronen,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.5,1,0.0
+Joachim Andersen,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,4.5,2,0.0
+David Zima,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.5,2,0.0
+Luca Pellegrini,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,4.5,2,0.0
+Zeki Çelik,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.5,2,1.0
+Illia Zabarnyi,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.5,2,0.0
+Henrik Dalsgaard,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,4.5,2,0.0
+Léo Dubois,2021-06-15 21:00:00,European Championship 2020,France,Germany,4.5,2,0.0
+Roman Hubník,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.5,2,0.0
+Jakub Holubek,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.5,2,0.0
+Stole Dimitrievski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,4.5,1,0.0
+Eray Cömert,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,4.5,2,0.0
+Jason Denayer,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,4.5,2,11.0
+Marcus Danielson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,4.5,2,0.0
+Jack Hendry,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.5,2,0.0
+Darko Velkovski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,4.5,2,0.0
+Alphonse Areola,2021-06-15 21:00:00,European Championship 2020,France,Germany,4.5,1,0.0
+Péter Gulácsi,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.5,1,3.0
+Tomáš Hubočan,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.5,2,0.0
+Declan Gallagher,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.5,2,0.0
+Gergo Lovrencsics,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.5,2,0.0
+Silvan Widmer,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,4.5,2,0.0
+Owen Wijndal,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,4.5,2,7.0
+Denis Vavro,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.5,2,0.0
+Georgi Bushchan,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.5,1,0.0
+Domagoj Bradaric,2021-06-13 15:00:00,European Championship 2020,Croatia,England,4.5,2,0.0
+Jakub Brabec,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.5,2,0.0
+Dedryck Boyata,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,4.5,2,0.0
+Endre Botka,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.5,2,0.0
+Jan Boril,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.5,2,0.0
+Bartosz Bereszynski,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.5,2,0.0
+Loris Benito,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,4.5,2,0.0
+Pierre Bengtsson,2021-06-14 21:00:00,European Championship 2020,Sweden,Spain,4.5,2,0.0
+Egzon Bejtulai,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,4.5,2,0.0
+Jan Bednarek,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.5,2,8.0
+Daniel Bachmann,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,4.5,1,0.0
+Alessandro Bastoni,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,4.5,2,3.0
+Borna Barisic,2021-06-13 15:00:00,European Championship 2020,Croatia,England,4.5,2,1.0
+Ezgjan Alioski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,4.5,2,4.0
+Alexander Schlager,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,4.5,1,0.0
+Adam Davies,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,4.5,1,0.0
+Tomás Holes,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.5,3,10.0
+Christian Günter,2021-06-15 21:00:00,European Championship 2020,Germany,France,4.5,2,0.0
+David Hovorka,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.5,2,0.0
+Krystian Bielik,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.5,2,0.0
+Christopher Trimmel,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,4.5,2,0.0
+Ben Godfrey,2021-06-13 15:00:00,European Championship 2020,England,Croatia,4.5,2,0.0
+Andi Zeqiri,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,4.5,4,4.0
+Tyrone Mings,2021-06-13 15:00:00,European Championship 2020,England,Croatia,4.5,2,1.0
+Viktor Kovalenko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.5,2,0.0
+Manuel Lazzari,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,4.5,2,0.0
+Michal Sadílek,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.5,3,0.0
+Rafael Tolói,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,4.5,2,0.0
+Jukka Raitala,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.5,2,0.0
+Ilia Samoshnikov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.5,2,0.0
+Denys Popov,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.5,2,0.0
+Joško Gvardiol,2021-06-13 15:00:00,European Championship 2020,Croatia,England,4.5,2,0.0
+Marcin Kamiński,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.5,2,0.0
+Vladislav Ignatyev,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.5,2,0.0
+Jeroen Zoet,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,4.5,1,0.0
+Jörg Siebenhandl,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,4.5,1,0.0
+Norbert Gyömber,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.5,2,0.0
+Robert Gumny,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.5,2,0.0
+Ivo Grbić,2021-06-13 15:00:00,European Championship 2020,Croatia,England,4.5,1,0.0
+Rick Karsdorp,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,4.5,2,0.0
+Guilherme,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.5,1,0.0
+Philipp Mwene,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,4.5,2,0.0
+Sebastian Walukiewicz,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.5,2,0.0
+Bogdan Butko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.5,2,0.0
+Mykyta Burda,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.5,2,0.0
+Denys Boyko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.5,1,0.0
+Rafał Augustyniak,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.5,2,0.0
+Jasin Assehnoun,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.5,3,2.0
+Liam Palmer,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.5,2,0.0
+Dávid Hancko,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.5,2,0.0
+Martin Valjent,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.5,2,0.0
+Paweł Bochniewicz,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.5,2,0.0
+Kristijan Toševski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,4.5,2,0.0
+Agron Rufati,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,4.5,2,0.0
+Rúben Semedo,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,4.5,2,0.0
+Pau López,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,4.5,1,0.0
+François Moubandje,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,4.5,2,0.0
+Michael Lang,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,4.5,2,0.0
+Luís Neto,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,4.5,2,0.0
+Emre Taşdemir,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.5,2,0.0
+Ömer Bayram,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.5,2,0.0
+Georgi Schennikov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.5,2,0.0
+Richard Strebinger,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,4.5,1,0.0
+Niklas Stark,2021-06-15 21:00:00,European Championship 2020,Germany,France,4.5,2,0.0
+Timm Klose,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,4.5,2,0.0
+Michael Keane,2021-06-13 15:00:00,European Championship 2020,England,Croatia,4.5,2,0.0
+Kepa,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,4.5,1,0.0
+Graeme Shinnie,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.5,2,0.0
+Benjamin Henrichs,2021-06-15 21:00:00,European Championship 2020,Germany,France,4.5,2,0.0
+Hasan Ali Kaldırım,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.5,2,0.0
+Thomas Foket,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,4.5,2,0.0
+Martin Koscelník,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.5,2,0.0
+Filip Uremović,2021-06-13 15:00:00,European Championship 2020,Croatia,England,4.5,2,0.0
+Dayot Upamecano,2021-06-15 21:00:00,European Championship 2020,France,Germany,4.5,2,0.0
+Artur Jędrzejczyk,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.5,2,0.0
+Domingos Duarte,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,4.5,2,0.0
+Tin Jedvaj,2021-06-13 15:00:00,European Championship 2020,Croatia,England,4.5,2,0.0
+Cican Stanković,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,4.5,1,0.0
+Igor Smolnikov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.5,2,0.0
+Serdar Aziz,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.5,2,0.0
+Sergei Petrov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.5,2,0.0
+Alpaslan Öztürk,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.5,2,0.0
+Marin Pongračić,2021-06-13 15:00:00,European Championship 2020,Croatia,England,4.5,2,0.0
+Lukáš Pauschek,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.5,2,0.0
+Roman Neustädter,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.5,2,0.0
+Karol Niemczycki,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.5,1,0.0
+Martin Bogatinov,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,4.5,1,0.0
+Héctor Bellerín,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,4.5,2,0.0
+Nazım Sangare,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.5,2,0.0
+Brandon Mechele,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,4.5,2,0.0
+Dario Melnjak,2021-06-13 15:00:00,European Championship 2020,Croatia,England,4.5,2,0.0
+Philipp Max,2021-06-15 21:00:00,European Championship 2020,Germany,France,4.5,2,0.0
+Róbert Mazáň,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.5,2,0.0
+Ilya Kutepov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.5,2,0.0
+Andrew Considine,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.5,2,0.0
+Yukhym Konoplia,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.5,2,0.0
+Elias Cobbaut,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,4.5,2,0.0
+Koen Casteels,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,4.5,1,0.0
+Matz Sels,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,4.5,1,0.0
+Danny Ward,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,4.5,1,0.0
+Kenny Tete,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,4.5,2,0.0
+Ákos Kecskés,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.0,2,0.0
+Balázs Tóth,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.0,1,1.0
+Albin Granlund,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.0,2,0.0
+Thomas Lam,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.0,2,1.0
+Ádám Lang,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.0,2,1.0
+Jordan Lotomba,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,4.0,2,1.0
+Roman Evgeniev,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.0,2,1.0
+Václav Jemelka,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.0,2,0.0
+Ondřej Kolář,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.0,1,1.0
+Jon McLaughlin,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.0,1,3.0
+Mike Maignan,2021-06-15 21:00:00,European Championship 2020,France,Germany,4.0,1,2.0
+Tomáš Koubek,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.0,1,1.0
+Alessio Cragno,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,4.0,1,1.0
+Juhani Ojala,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.0,2,1.0
+José Sá,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,4.0,1,0.0
+Alexander Isak,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,4.0,2,0.0
+Becir Omeragic,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,4.0,2,1.0
+Kamil Piatkowski,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.0,2,1.0
+Stefan Posch,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,4.0,2,1.0
+Tymoteusz Puchacz,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.0,2,1.0
+Kire Ristevski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,4.0,2,0.0
+Stefan Ristovski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,4.0,2,2.0
+Rui Silva,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,4.0,1,2.0
+Lukasz Skorupski,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.0,1,2.0
+Niko Hämäläinen,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.0,2,1.0
+Attila Fiola,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.0,2,1.0
+Jeremiah St. Juste,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,4.0,2,1.0
+Damjan Siskovski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,4.0,1,1.0
+Anssi Jaakkola,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.0,1,1.0
+Risto Jankov,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,4.0,1,0.0
+Tomáš Petrášek,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.0,2,0.0
+Oleksandr Syrota,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.0,2,1.0
+Mert Çetin,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.0,2,3.0
+Ferro,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,4.0,2,0.0
+Ross McCrorie,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.0,2,0.0
+Robby McCrorie,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.0,1,0.0
+Paul McGinn,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.0,2,0.0
+Gaëtan Coucke,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,4.0,1,0.0
+Benoît Costil,2021-06-15 21:00:00,European Championship 2020,France,Germany,4.0,1,0.0
+Mihály Korhut,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.0,2,0.0
+Ádám Kovácsik,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.0,1,1.0
+Thomas Kaminski,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,4.0,1,0.0
+Armando Izzo,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,4.0,2,0.0
+Pedro Porro,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,4.0,2,0.0
+Unai Nuñez,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,4.0,2,0.0
+Branislav Niňaj,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.0,2,0.0
+Bartłomiej Drągowski,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.0,1,0.0
+Soslan Dzhanaev,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.0,1,0.0
+Mario Mladenovski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,4.0,2,0.0
+Bünyamin Balcı,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.0,2,0.0
+Sven Botman,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,4.0,2,0.0
+Botond Baráth,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.0,2,0.0
+Valeriy Bondar,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.0,2,0.0
+Barnabás Bese,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.0,2,0.0
+Maksim Belyaev,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.0,2,0.0
+Ruben Aguilar,2021-06-15 21:00:00,European Championship 2020,France,Germany,4.0,2,0.0
+Abdülkerim Bardakcı,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.0,2,0.0
+Tome Kitanovski,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,4.0,2,0.0
+Szilveszter Hangya,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.0,2,0.0
+Radosław Majecki,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.0,1,1.0
+Aaron Ramsey,2021-06-13 15:00:00,European Championship 2020,England,Croatia,4.0,1,0.0
+Ben White,2021-06-13 15:00:00,European Championship 2020,England,Croatia,4.0,2,1.0
+Vasyl Kravets,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.0,2,0.0
+Brandon Cooper,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,4.0,2,0.0
+Eduard Matveyenko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.0,2,0.0
+Owain Fôn Williams,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,4.0,1,0.0
+Bruno Varela,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,4.0,1,0.0
+Altay Bayındır,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.0,1,1.0
+Joona Toivio,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.0,2,0.0
+Niki Mäenpää,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.0,1,0.0
+David Nemeth,2021-06-13 18:00:00,European Championship 2020,Austria,North Macedonia,4.0,2,0.0
+Paulus Arajuuri,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.0,2,1.0
+Juha Pirinen,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.0,2,0.0
+Igor Plastun,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.0,2,0.0
+František Plach,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.0,1,0.0
+Ryan Porteous,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.0,2,0.0
+John Souttar,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.0,2,0.0
+Boris Sekulič,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.0,2,0.0
+Egor Sorokin,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.0,2,0.0
+Gian Marco Ferrari,2021-06-11 21:00:00,European Championship 2020,Italy,Turkey,4.0,2,0.0
+Lajos Hegedüs,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.0,1,0.0
+Paul Hanlon,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.0,2,0.0
+Yevgen Cheberko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.0,2,0.0
+Alan Czerwiński,2021-06-14 18:00:00,European Championship 2020,Poland,Slovakia,4.0,2,0.0
+Yevgeni Chernov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.0,2,0.0
+Dmitri Chistyakov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.0,2,0.0
+Artem Shabanov,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.0,2,0.0
+Lukáš Štetina,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.0,2,0.0
+Carljohan Eriksson,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.0,1,0.0
+Ertuğrul Ersoy,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.0,2,0.0
+Dominik Greif,2021-06-14 18:00:00,European Championship 2020,Slovakia,Poland,4.0,1,0.0
+Aleksandr Zhirov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.0,2,0.0
+Daniel Carriço,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,4.0,2,0.0
+Ádám Bogdán,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.0,1,1.0
+Ales Mandous,2021-06-14 15:00:00,European Championship 2020,Czech Republic,Scotland,4.0,1,0.0
+Matvei Safonov,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.0,1,1.0
+Ridvan Yilmaz,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.0,2,1.0
+Heorhii Sudakov,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,4.0,3,8.0
+Marco Bizot,2021-06-13 21:00:00,European Championship 2020,Netherlands,Ukraine,4.0,1,1.0
+Nicolai Boilesen,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,4.0,2,8.0
+Csaba Spandler,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.0,2,0.0
+Bendegúz Bolla,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.0,2,1.0
+Arsen Zakharyan,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.0,3,7.0
+Gökhan Akkan,2021-06-11 21:00:00,European Championship 2020,Turkey,Italy,4.0,1,0.0
+Loïc Négo,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.0,3,42.0
+Leo Väisänen,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.0,2,2.0
+Nathan Patterson,2021-06-14 15:00:00,European Championship 2020,Scotland,Czech Republic,4.0,2,1.0
+Rubin Colwill,2021-06-12 15:00:00,European Championship 2020,Wales,Switzerland,4.0,3,5.0
+Gregor Kobel,2021-06-12 15:00:00,European Championship 2020,Switzerland,Wales,4.0,1,1.0
+Sauli Väisänen,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.0,2,1.0
+Lukás Hrádecky,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.0,1,34.0
+Daniel O'Shaughnessy,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.0,2,1.0
+Sam Johnstone,2021-06-13 15:00:00,European Championship 2020,England,Croatia,4.0,1,1.0
+Dénes Dibusz,2021-06-15 18:00:00,European Championship 2020,Hungary,Portugal,4.0,1,1.0
+Igor Diveev,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.0,2,1.0
+Yuri Dyupin,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,4.0,1,1.0
+Gjoko Zajkov,2021-06-13 18:00:00,European Championship 2020,North Macedonia,Austria,4.0,2,0.0
+Robert Ivanov,2021-06-12 18:00:00,European Championship 2020,Finland,Denmark,4.0,2,1.0
