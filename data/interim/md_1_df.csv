@@ -550,7 +550,7 @@ Enis Bardhi,2019-11-19,European Championship Qualifiers,North Macedonia,Israel,1
 Kevin De Bruyne,2020-09-08,UEFA Nations League,Belgium,Iceland,19.22,80,M,0,2,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,1,76.0,3.0,0.0,0.0,1,2020,9,8,0.0,0.0,0.0,0.0,8.0
 Andreas Skov Olsen,2021-03-28,European World Cup Qualifiers,Denmark,Moldova,19.2,45,F,0,2,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0,0,0,0,0,20.0,3.0,0.0,0.0,1,2021,3,28,0.0,0.0,0.0,0.0,7.0
 Mario Fernandes,2021-03-24,European World Cup Qualifiers,Russia,Malta,19.2,90,D,1,0,1.0,1.0,4.0,0.0,0.0,1.0,3.0,0,0,0,0,1,45.0,1.0,0.0,0.0,1,2021,3,24,0.0,0.0,0.0,0.0,8.0
-Andriy Yarmolenko,2020-09-03,UEFA Nations League,Ukraine,Switzerland,19.18,90,F,1,0,4.0,2.0,0.0,1.0,2.0,0.0,1.0,0,0,0,0,1,34.0,2.0,0.0,0.0,1,2020,9,3,0.0,0.0,0.0,0.0,6.0
+Andriy Yarmolenko,2020-09-03,UEFA Nations League,Ukraine,Switzerland,19.18,90,M,1,0,4.0,2.0,0.0,1.0,2.0,0.0,1.0,0,0,0,0,1,34.0,2.0,0.0,0.0,1,2020,9,3,0.0,0.0,0.0,0.0,7.0
 Ivan Trickovski,2018-09-06,UEFA Nations League,North Macedonia,Gibraltar,19.18,90,F,1,1,2.0,1.0,0.0,0.0,1.0,0.0,0.0,1,0,0,1,0,9.0,2.0,0.0,0.0,1,2018,9,6,0.0,0.0,0.0,0.0,8.0
 Andrea Belotti,2021-03-28,European World Cup Qualifiers,Italy,Bulgaria,19.16,75,F,1,0,5.0,1.0,0.0,4.0,2.0,0.0,0.0,0,0,0,1,0,8.0,0.0,0.0,0.0,1,2021,3,28,0.0,0.0,0.0,0.0,6.0
 Thorgan Hazard,2021-03-24,European World Cup Qualifiers,Belgium,Wales,19.16,84,M,1,1,2.0,1.0,1.0,0.0,2.0,0.0,0.0,1,0,0,0,1,48.0,1.0,0.0,0.0,1,2021,3,24,0.0,0.0,0.0,0.0,9.0
@@ -675,7 +675,7 @@ Ruslan Malinovskiy,2018-10-16,UEFA Nations League,Ukraine,Czech Republic,17.82,8
 Teemu Pukki,2019-09-05,European Championship Qualifiers,Finland,Greece,17.82,85,F,1,0,2.0,1.0,0.0,3.0,1.0,0.0,0.0,0,0,0,1,0,16.0,2.0,0.0,0.0,1,2019,9,5,0.0,0.0,0.0,0.0,6.0
 Arkadiusz Milik,2019-10-13,European Championship Qualifiers,Poland,North Macedonia,17.8,22,F,1,0,2.0,1.0,0.0,1.0,0.0,1.0,1.0,0,0,0,0,0,15.0,2.0,0.0,0.0,0,2019,10,13,0.0,0.0,0.0,0.0,5.0
 Federico Bernardeschi,2019-06-11,European Championship Qualifiers,Italy,Bosnia and Herzegovina,17.8,81,M,0,1,2.0,1.0,5.0,3.0,2.0,1.0,0.0,0,0,0,0,1,15.0,2.0,0.0,0.0,1,2019,6,11,0.0,0.0,0.0,0.0,5.0
-Andriy Yarmolenko,2018-09-09,UEFA Nations League,Ukraine,Slovakia,17.78,90,F,1,0,2.0,2.0,3.0,0.0,1.0,0.0,1.0,0,0,0,1,0,34.0,1.0,0.0,0.0,1,2018,9,9,0.0,0.0,0.0,0.0,6.0
+Andriy Yarmolenko,2018-09-09,UEFA Nations League,Ukraine,Slovakia,17.78,90,M,1,0,2.0,2.0,3.0,0.0,1.0,0.0,1.0,0,0,0,1,0,34.0,1.0,0.0,0.0,1,2018,9,9,0.0,0.0,0.0,0.0,8.0
 Denis Zakaria,2019-11-15,European Championship Qualifiers,Switzerland,Georgia,17.78,90,M,0,1,3.0,1.0,3.0,1.0,2.0,2.0,1.0,0,0,0,1,0,59.0,2.0,0.0,0.0,1,2019,11,15,0.0,0.0,0.0,0.0,6.0
 Piotr Zielinski,2019-03-24,European Championship Qualifiers,Poland,Latvia,17.78,90,M,0,0,2.0,0.0,10.0,3.0,0.0,1.0,0.0,0,0,0,1,0,39.0,4.0,0.0,0.0,1,2019,3,24,0.0,0.0,0.0,0.0,3.0
 Dejan Lovren,2019-09-06,European Championship Qualifiers,Croatia,Slovakia,17.74,90,D,1,0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,0,37.0,0.0,0.0,0.0,1,2019,9,6,0.0,0.0,0.0,0.0,12.0
@@ -1391,7 +1391,7 @@ Irfan Kahveci,2019-06-11,European Championship Qualifiers,Turkey,Iceland,12.1,63
 Kevin Mbabu,2019-06-05,UEFA Nations League,Switzerland,Portugal,12.1,90,D,0,0,0.0,0.0,10.0,1.0,1.0,1.0,0.0,0,0,0,0,3,30.0,3.0,0.0,0.0,1,2019,6,5,0.0,0.0,0.0,0.0,1.0
 Phil Foden,2021-03-31,European World Cup Qualifiers,England,Poland,12.1,86,M,0,0,3.0,1.0,4.0,3.0,0.0,0.0,1.0,0,0,0,0,1,40.0,1.0,0.0,0.0,1,2021,3,31,0.0,0.0,0.0,0.0,2.0
 Thomas Delaney,2018-10-13,UEFA Nations League,Denmark,Republic of Ireland,12.1,90,M,0,0,1.0,1.0,1.0,6.0,3.0,2.0,2.0,1,0,0,1,0,70.0,2.0,0.0,0.0,1,2018,10,13,0.0,0.0,0.0,0.0,2.0
-Andriy Yarmolenko,2019-10-14,European Championship Qualifiers,Ukraine,Portugal,12.08,90,F,1,0,2.0,1.0,0.0,1.0,2.0,0.0,0.0,1,0,0,0,1,29.0,0.0,0.0,0.0,1,2019,10,14,0.0,0.0,0.0,0.0,5.0
+Andriy Yarmolenko,2019-10-14,European Championship Qualifiers,Ukraine,Portugal,12.08,90,M,1,0,2.0,1.0,0.0,1.0,2.0,0.0,0.0,1,0,0,0,1,29.0,0.0,0.0,0.0,1,2019,10,14,0.0,0.0,0.0,0.0,6.0
 Valentino Lazaro,2019-09-09,European Championship Qualifiers,Austria,Poland,12.08,77,M,0,0,1.0,1.0,9.0,1.0,2.0,0.0,0.0,0,0,0,1,0,39.0,3.0,0.0,0.0,1,2019,9,9,0.0,0.0,0.0,0.0,3.0
 Louis Schaub,2020-11-15,UEFA Nations League,Austria,Northern Ireland,12.06,12,F,1,0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,3.0,0.0,0.0,0.0,0,2020,11,15,0.0,0.0,0.0,0.0,5.0
 Antonio Rüdiger,2019-03-24,European Championship Qualifiers,Germany,Netherlands,12.04,90,D,0,1,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0,0,0,0,2,52.0,2.0,0.0,0.0,1,2019,3,24,0.0,0.0,0.0,0.0,4.0
@@ -1764,13 +1764,13 @@ Grzegorz Krychowiak,2019-10-13,European Championship Qualifiers,Poland,North Mac
 Robert Lewandowski,2018-10-11,UEFA Nations League,Poland,Portugal,10.04,90,F,0,1,0.0,0.0,1.0,3.0,2.0,0.0,0.0,0,0,0,0,3,17.0,1.0,0.0,0.0,1,2018,10,11,0.0,0.0,0.0,0.0,5.0
 José Gayá,2019-03-26,European Championship Qualifiers,Spain,Malta,10.02,90,D,0,0,1.0,0.0,3.0,1.0,0.0,1.0,1.0,0,0,0,1,0,71.0,0.0,0.0,0.0,1,2019,3,26,0.0,0.0,0.0,0.0,6.0
 Oleksandr Zinchenko,2019-06-10,European Championship Qualifiers,Ukraine,Luxembourg,10.02,90,D,0,0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1,0,0,1,0,56.0,2.0,0.0,0.0,1,2019,6,10,0.0,0.0,0.0,0.0,5.0
-Andriy Yarmolenko,2020-10-13,UEFA Nations League,Ukraine,Spain,10.0,90,F,0,1,0.0,0.0,2.0,1.0,3.0,0.0,1.0,0,0,0,1,0,30.0,2.0,0.0,0.0,1,2020,10,13,0.0,0.0,0.0,0.0,5.0
+Andriy Yarmolenko,2020-10-13,UEFA Nations League,Ukraine,Spain,10.0,90,M,0,1,0.0,0.0,2.0,1.0,3.0,0.0,1.0,0,0,0,1,0,30.0,2.0,0.0,0.0,1,2020,10,13,0.0,0.0,0.0,0.0,6.0
 Denzel Dumfries,2021-03-27,European World Cup Qualifiers,Netherlands,Latvia,10.0,90,D,0,0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,0,0,0,1,0,55.0,0.0,0.0,0.0,1,2021,3,27,0.0,0.0,0.0,0.0,6.0
 Nemanja Nikolics,2020-11-15,UEFA Nations League,Hungary,Serbia,10.0,57,F,0,1,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0,0,0,0,1,15.0,1.0,0.0,0.0,1,2020,11,15,0.0,0.0,0.0,0.0,4.0
 Paulus Arajuuri,2020-10-11,UEFA Nations League,Finland,Bulgaria,10.0,90,D,0,0,0.0,0.0,0.0,2.0,0.0,2.0,4.0,0,0,0,1,0,50.0,0.0,0.0,0.0,1,2020,10,11,0.0,0.0,0.0,0.0,6.0
 Sebastian Larsson,2018-11-17,UEFA Nations League,Sweden,Turkey,10.0,90,M,0,0,3.0,0.0,5.0,1.0,0.0,1.0,2.0,0,0,0,1,0,25.0,0.0,0.0,0.0,1,2018,11,17,0.0,0.0,0.0,0.0,3.0
 Stefan Lainer,2020-11-15,UEFA Nations League,Austria,Northern Ireland,10.0,90,D,0,0,0.0,0.0,8.0,1.0,0.0,2.0,0.0,0,0,0,0,1,70.0,0.0,0.0,0.0,1,2020,11,15,0.0,0.0,0.0,0.0,2.0
-Andriy Yarmolenko,2019-11-17,European Championship Qualifiers,Ukraine,Serbia,9.98,90,F,0,0,2.0,0.0,5.0,2.0,2.0,0.0,0.0,0,0,0,0,2,24.0,3.0,0.0,0.0,1,2019,11,17,0.0,0.0,0.0,0.0,2.0
+Andriy Yarmolenko,2019-11-17,European Championship Qualifiers,Ukraine,Serbia,9.98,90,M,0,0,2.0,0.0,5.0,2.0,2.0,0.0,0.0,0,0,0,0,2,24.0,3.0,0.0,0.0,1,2019,11,17,0.0,0.0,0.0,0.0,2.0
 Hakan Calhanoglu,2019-10-14,European Championship Qualifiers,Turkey,France,9.98,45,M,0,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0,0,0,0,1,14.0,2.0,0.0,0.0,0,2019,10,14,0.0,0.0,0.0,0.0,4.0
 Kylian Mbappé,2020-11-17,UEFA Nations League,France,Sweden,9.98,32,F,0,1,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0,0,0,0,1,14.0,2.0,0.0,0.0,0,2020,11,17,0.0,0.0,0.0,0.0,4.0
 Neco Williams,2021-03-30,European World Cup Qualifiers,Wales,Czech Republic,9.98,90,D,0,0,1.0,0.0,3.0,3.0,3.0,0.0,2.0,0,0,0,1,0,19.0,1.0,0.0,0.0,1,2021,3,30,0.0,0.0,0.0,0.0,6.0
@@ -2432,7 +2432,7 @@ Matthias Ginter,2021-03-25,European World Cup Qualifiers,Germany,Iceland,7.64,90
 Paulus Arajuuri,2018-09-08,UEFA Nations League,Finland,Hungary,7.64,90,D,0,0,1.0,0.0,0.0,4.0,2.0,0.0,0.0,0,0,0,1,0,32.0,0.0,0.0,0.0,1,2018,9,8,0.0,0.0,0.0,0.0,6.0
 Sergio Busquets,2021-03-31,European World Cup Qualifiers,Spain,Kosovo,7.64,82,M,0,0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0,0,0,0,1,82.0,4.0,0.0,0.0,1,2021,3,31,0.0,0.0,0.0,0.0,2.0
 Xherdan Shaqiri,2020-11-14,UEFA Nations League,Switzerland,Spain,7.64,72,M,0,0,2.0,1.0,2.0,2.0,0.0,0.0,0.0,0,0,0,0,0,12.0,1.0,0.0,0.0,1,2020,11,14,0.0,0.0,0.0,0.0,2.0
-Andriy Yarmolenko,2018-09-06,UEFA Nations League,Ukraine,Czech Republic,7.62,66,F,0,0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0,0,0,0,1,31.0,3.0,0.0,0.0,1,2018,9,6,0.0,0.0,0.0,0.0,2.0
+Andriy Yarmolenko,2018-09-06,UEFA Nations League,Ukraine,Czech Republic,7.62,66,M,0,0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0,0,0,0,1,31.0,3.0,0.0,0.0,1,2018,9,6,0.0,0.0,0.0,0.0,2.0
 Connor Roberts,2019-11-19,European Championship Qualifiers,Wales,Hungary,7.62,90,D,0,0,0.0,0.0,1.0,1.0,0.0,1.0,3.0,0,0,0,1,0,21.0,0.0,0.0,0.0,1,2019,11,19,0.0,0.0,0.0,0.0,6.0
 Cristiano Ronaldo,2019-06-09,UEFA Nations League,Portugal,Netherlands,7.62,90,F,0,0,3.0,1.0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,0,31.0,2.0,0.0,0.0,1,2019,6,9,0.0,0.0,0.0,0.0,2.0
 Georgi Dzhikiya,2019-11-19,European Championship Qualifiers,Russia,San Marino,7.62,90,D,0,0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,0,0,0,1,0,81.0,0.0,0.0,0.0,1,2019,11,19,0.0,0.0,0.0,0.0,6.0
@@ -2824,7 +2824,7 @@ Remo Freuler,2021-03-28,European World Cup Qualifiers,Switzerland,Lithuania,6.54
 Umut Meras,2021-03-27,European World Cup Qualifiers,Turkey,Norway,6.54,90,D,0,0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0,0,0,1,0,42.0,0.0,0.0,0.0,1,2021,3,27,0.0,0.0,0.0,0.0,6.0
 Visar Musliu,2020-11-18,UEFA Nations League,North Macedonia,Armenia,6.54,70,D,0,0,0.0,0.0,0.0,1.0,1.0,3.0,3.0,1,0,0,0,1,52.0,2.0,0.0,0.0,1,2020,11,18,0.0,0.0,0.0,0.0,1.0
 Rodrigo,2020-11-11,International Friendlies,Spain,Netherlands,6.52,90,M,0,0,3.0,0.0,0.0,1.0,0.0,1.0,1.0,0,0,0,0,1,51.0,0.0,0.0,0.0,1,2020,11,11,0.0,0.0,0.0,0.0,2.0
-Andriy Yarmolenko,2018-10-16,UEFA Nations League,Ukraine,Czech Republic,6.52,90,F,0,0,1.0,0.0,1.0,3.0,1.0,0.0,1.0,0,0,0,1,0,41.0,1.0,0.0,0.0,1,2018,10,16,0.0,0.0,0.0,0.0,2.0
+Andriy Yarmolenko,2018-10-16,UEFA Nations League,Ukraine,Czech Republic,6.52,90,M,0,0,1.0,0.0,1.0,3.0,1.0,0.0,1.0,0,0,0,1,0,41.0,1.0,0.0,0.0,1,2018,10,16,0.0,0.0,0.0,0.0,3.0
 Denzel Dumfries,2019-03-21,European Championship Qualifiers,Netherlands,Belarus,6.52,68,D,0,0,0.0,0.0,3.0,1.0,2.0,1.0,0.0,0,0,0,1,0,21.0,0.0,0.0,0.0,1,2019,3,21,0.0,0.0,0.0,0.0,6.0
 Jason Denayer,2020-11-15,UEFA Nations League,Belgium,England,6.52,90,D,0,0,0.0,0.0,0.0,0.0,2.0,2.0,3.0,0,0,0,1,0,51.0,0.0,0.0,0.0,1,2020,11,15,0.0,0.0,0.0,0.0,6.0
 Matús Bero,2020-09-07,UEFA Nations League,Slovakia,Israel,6.52,90,M,0,1,0.0,0.0,1.0,0.0,3.0,0.0,1.0,1,0,0,0,1,16.0,2.0,0.0,0.0,1,2020,9,7,0.0,0.0,0.0,0.0,4.0
@@ -2980,7 +2980,7 @@ Paulus Arajuuri,2019-09-05,European Championship Qualifiers,Finland,Greece,6.14,
 Thomas Vermaelen,2019-10-13,European Championship Qualifiers,Belgium,Kazakhstan,6.14,89,D,0,0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0,0,0,1,0,82.0,0.0,0.0,0.0,1,2019,10,13,0.0,0.0,0.0,0.0,6.0
 Adama Traoré,2020-11-14,UEFA Nations League,Spain,Switzerland,6.12,17,M,0,0,1.0,0.0,5.0,1.0,1.0,0.0,0.0,0,0,0,0,0,6.0,1.0,0.0,0.0,0,2020,11,14,0.0,0.0,0.0,0.0,1.0
 Aleksandar Dragovic,2019-06-10,European Championship Qualifiers,Austria,North Macedonia,6.12,45,D,0,0,1.0,0.0,0.0,0.0,0.0,4.0,1.0,0,0,0,0,1,31.0,0.0,0.0,0.0,1,2019,6,10,0.0,0.0,0.0,0.0,1.0
-Andriy Yarmolenko,2019-10-11,European Championship Qualifiers,Ukraine,Lithuania,6.12,65,F,0,0,2.0,0.0,1.0,2.0,1.0,0.0,1.0,0,0,0,1,0,21.0,1.0,0.0,0.0,1,2019,10,11,0.0,0.0,0.0,0.0,2.0
+Andriy Yarmolenko,2019-10-11,European Championship Qualifiers,Ukraine,Lithuania,6.12,65,M,0,0,2.0,0.0,1.0,2.0,1.0,0.0,1.0,0,0,0,1,0,21.0,1.0,0.0,0.0,1,2019,10,11,0.0,0.0,0.0,0.0,3.0
 Ethan Ampadu,2019-09-06,European Championship Qualifiers,Wales,Azerbaijan,6.12,75,D,0,0,0.0,0.0,0.0,2.0,1.0,1.0,3.0,0,0,0,0,1,56.0,1.0,0.0,0.0,1,2019,9,6,0.0,0.0,0.0,0.0,2.0
 Pierre-Emile Højbjerg,2019-09-08,European Championship Qualifiers,Denmark,Georgia,6.12,73,M,0,0,0.0,0.0,1.0,2.0,1.0,1.0,3.0,0,0,0,1,0,71.0,0.0,0.0,0.0,1,2019,9,8,0.0,0.0,0.0,0.0,3.0
 Roman Yaremchuk,2018-09-06,UEFA Nations League,Ukraine,Czech Republic,6.12,85,F,0,0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0,0,0,0,1,31.0,3.0,0.0,0.0,1,2018,9,6,0.0,0.0,0.0,0.0,2.0
@@ -3413,7 +3413,7 @@ Rúben Dias,2019-09-10,European Championship Qualifiers,Portugal,Lithuania,5.18,
 Tomas Hubocan,2021-03-24,European World Cup Qualifiers,Slovakia,Cyprus,5.18,90,D,0,0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,0,0,0,1,0,49.0,0.0,0.0,0.0,1,2021,3,24,0.0,0.0,0.0,0.0,6.0
 Tomas Soucek,2018-09-06,UEFA Nations League,Czech Republic,Ukraine,5.18,90,M,0,0,1.0,0.0,0.0,0.0,2.0,2.0,6.0,1,0,0,0,2,34.0,1.0,0.0,0.0,1,2018,9,6,0.0,0.0,0.0,0.0,1.0
 William Carvalho,2018-11-17,UEFA Nations League,Portugal,Italy,5.18,90,M,0,0,1.0,1.0,0.0,2.0,2.0,0.0,1.0,0,0,0,1,0,34.0,1.0,0.0,0.0,1,2018,11,17,0.0,0.0,0.0,0.0,3.0
-Andriy Yarmolenko,2020-11-11,International Friendlies,Ukraine,Poland,5.16,45,F,0,0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,0,0,1,0,1,13.0,0.0,0.0,0.0,1,2020,11,11,0.0,0.0,0.0,0.0,-1.0
+Andriy Yarmolenko,2020-11-11,International Friendlies,Ukraine,Poland,5.16,45,M,0,0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,0,0,1,0,1,13.0,0.0,0.0,0.0,1,2020,11,11,0.0,0.0,0.0,0.0,-1.0
 Daler Kuzyaev,2018-09-10,International Friendlies,Russia,Czech Republic,5.16,90,M,0,0,0.0,0.0,2.0,0.0,1.0,1.0,1.0,0,0,0,0,1,38.0,2.0,0.0,0.0,1,2018,9,10,0.0,0.0,0.0,0.0,2.0
 Georginio Wijnaldum,2021-03-24,European World Cup Qualifiers,Netherlands,Turkey,5.16,90,M,0,0,3.0,0.0,0.0,4.0,2.0,0.0,0.0,1,0,0,0,4,33.0,0.0,0.0,0.0,1,2021,3,24,0.0,0.0,0.0,0.0,1.0
 Hans Vanaken,2020-11-11,International Friendlies,Belgium,Switzerland,5.16,90,M,0,0,0.0,0.0,1.0,0.0,3.0,4.0,1.0,0,0,0,0,1,73.0,0.0,0.0,0.0,1,2020,11,11,0.0,0.0,0.0,0.0,2.0
@@ -4063,7 +4063,7 @@ Stefan Ilsanker,2021-03-25,European World Cup Qualifiers,Austria,Scotland,3.9,90
 Stefan Ristovski,2018-10-16,UEFA Nations League,North Macedonia,Armenia,3.9,90,D,0,0,1.0,0.0,3.0,1.0,3.0,1.0,2.0,1,0,0,0,4,40.0,0.0,0.0,0.0,1,2018,10,16,0.0,0.0,0.0,0.0,-1.0
 Yuri Zhirkov,2019-03-21,European Championship Qualifiers,Russia,Belgium,3.9,90,M,0,0,0.0,0.0,1.0,1.0,1.0,2.0,1.0,0,0,0,0,3,10.0,0.0,0.0,0.0,1,2019,3,21,0.0,0.0,0.0,0.0,2.0
 Yussuf Poulsen,2018-10-13,UEFA Nations League,Denmark,Republic of Ireland,3.9,90,F,0,0,0.0,0.0,0.0,2.0,3.0,3.0,0.0,0,0,0,1,0,20.0,0.0,0.0,0.0,1,2018,10,13,0.0,0.0,0.0,0.0,2.0
-Andriy Yarmolenko,2020-09-06,UEFA Nations League,Ukraine,Spain,3.88,79,F,0,0,1.0,0.0,1.0,2.0,0.0,0.0,0.0,0,0,0,0,3,9.0,0.0,0.0,0.0,1,2020,9,6,0.0,0.0,0.0,0.0,2.0
+Andriy Yarmolenko,2020-09-06,UEFA Nations League,Ukraine,Spain,3.88,79,M,0,0,1.0,0.0,1.0,2.0,0.0,0.0,0.0,0,0,0,0,3,9.0,0.0,0.0,0.0,1,2020,9,6,0.0,0.0,0.0,0.0,2.0
 Attila Fiola,2020-10-08,European Championship Qualifiers,Hungary,Bulgaria,3.88,82,D,0,0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0,0,0,0,0,34.0,1.0,0.0,0.0,1,2020,10,8,0.0,0.0,0.0,0.0,2.0
 Dawid Kownacki,2019-09-09,European Championship Qualifiers,Poland,Austria,3.88,58,F,0,0,0.0,0.0,3.0,1.0,0.0,0.0,1.0,0,0,0,0,0,14.0,0.0,0.0,0.0,1,2019,9,9,0.0,0.0,0.0,0.0,1.0
 Fabian Schär,2020-11-11,International Friendlies,Switzerland,Belgium,3.88,90,D,0,0,1.0,0.0,0.0,0.0,2.0,1.0,2.0,0,0,0,0,2,94.0,0.0,0.0,0.0,1,2020,11,11,0.0,0.0,0.0,0.0,1.0
@@ -4346,7 +4346,7 @@ Piotr Zielinski,2020-11-18,UEFA Nations League,Poland,Netherlands,3.38,70,M,0,0,
 Piotr Zielinski,2019-09-09,European Championship Qualifiers,Poland,Austria,3.38,90,M,0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0,0,0,1,0,19.0,2.0,0.0,0.0,1,2019,9,9,0.0,0.0,0.0,0.0,3.0
 Rúben Dias,2018-09-06,International Friendlies,Portugal,Croatia,3.38,90,D,0,0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0,0,0,0,1,44.0,1.0,0.0,0.0,1,2018,9,6,0.0,0.0,0.0,0.0,2.0
 Ryan Christie,2021-03-28,European World Cup Qualifiers,Scotland,Israel,3.38,45,M,0,0,1.0,0.0,1.0,0.0,2.0,2.0,1.0,0,0,0,0,0,9.0,0.0,0.0,0.0,0,2021,3,28,0.0,0.0,0.0,0.0,1.0
-Andriy Yarmolenko,2020-10-07,International Friendlies,Ukraine,France,3.36,62,F,0,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,4,18.0,2.0,0.0,0.0,1,2020,10,7,0.0,0.0,0.0,0.0,2.0
+Andriy Yarmolenko,2020-10-07,International Friendlies,Ukraine,France,3.36,62,M,0,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,4,18.0,2.0,0.0,0.0,1,2020,10,7,0.0,0.0,0.0,0.0,2.0
 Clément Lenglet,2019-10-14,European Championship Qualifiers,France,Turkey,3.36,90,D,0,0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0,0,0,0,1,68.0,0.0,0.0,0.0,1,2019,10,14,0.0,0.0,0.0,0.0,2.0
 Eljif Elmas,2020-11-12,European Championship Qualifiers,North Macedonia,Georgia,3.36,90,M,0,0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,0,18.0,0.0,0.0,0.0,1,2020,11,12,0.0,0.0,0.0,0.0,3.0
 Grzegorz Krychowiak,2019-06-10,European Championship Qualifiers,Poland,Israel,3.36,90,M,0,0,2.0,0.0,0.0,0.0,1.0,2.0,1.0,1,0,0,1,0,43.0,0.0,0.0,0.0,1,2019,6,10,0.0,0.0,0.0,0.0,2.0
@@ -5410,7 +5410,7 @@ Josip Brekalo,2020-11-14,UEFA Nations League,Croatia,Sweden,1.54,77,F,0,0,2.0,1.
 Pawel Dawidowicz,2021-03-28,European World Cup Qualifiers,Poland,Andorra,1.54,30,D,0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0,0,0,0,0,27.0,0.0,0.0,0.0,0,2021,3,28,0.0,0.0,0.0,0.0,1.0
 Scott McKenna,2020-11-15,UEFA Nations League,Scotland,Slovakia,1.54,90,D,0,0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0,0,0,0,1,52.0,0.0,0.0,0.0,1,2020,11,15,0.0,0.0,0.0,0.0,2.0
 Stefan Spirovski,2021-03-31,European World Cup Qualifiers,North Macedonia,Germany,1.54,18,M,0,0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0,0,0,0,0,2.0,0.0,0.0,0.0,0,2021,3,31,0.0,0.0,0.0,0.0,1.0
-Andriy Yarmolenko,2020-10-10,UEFA Nations League,Ukraine,Germany,1.52,69,F,0,0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0,0,0,0,2,6.0,0.0,0.0,0.0,1,2020,10,10,0.0,0.0,0.0,0.0,2.0
+Andriy Yarmolenko,2020-10-10,UEFA Nations League,Ukraine,Germany,1.52,69,M,0,0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0,0,0,0,2,6.0,0.0,0.0,0.0,1,2020,10,10,0.0,0.0,0.0,0.0,2.0
 Domagoj Vida,2021-03-30,European World Cup Qualifiers,Croatia,Malta,1.52,90,D,0,0,0.0,0.0,0.0,0.0,4.0,0.0,1.0,1,0,0,1,0,76.0,0.0,0.0,0.0,1,2021,3,30,0.0,0.0,0.0,0.0,5.0
 Filip Holender,2019-03-21,European Championship Qualifiers,Hungary,Slovakia,1.52,9,F,0,0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0,0,0,0,1,1.0,0.0,0.0,0.0,0,2019,3,21,0.0,0.0,0.0,0.0,1.0
 Igor Diveev,2020-11-18,UEFA Nations League,Russia,Serbia,1.52,45,D,0,0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0,0,0,0,4,26.0,0.0,0.0,0.0,1,2020,11,18,0.0,0.0,0.0,0.0,-1.0
@@ -5896,7 +5896,7 @@ Ondrej Duda,2020-09-04 00:00:00,UEFA Nations League,Slovakia,Czech Republic,0.58
 Rasmus Schüller,2020-10-14 00:00:00,UEFA Nations League,Finland,Republic of Ireland,0.58,15,M,0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0,0,0,0,0,4.0,0.0,0.0,0.0,0,2020,10,14,0.0,0.0,0.0,0.0,1.0
 Xaver Schlager,2018-09-06 00:00:00,International Friendlies,Austria,Sweden,0.58,9,M,0,0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0,0,0,0,0,4.0,0.0,0.0,0.0,0,2018,9,6,0.0,0.0,0.0,0.0,1.0
 Youri Tielemans,2021-03-30 00:00:00,European World Cup Qualifiers,Belgium,Belarus,0.58,19,M,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,29.0,0.0,0.0,0.0,0,2021,3,30,0.0,0.0,0.0,0.0,1.0
-Andriy Yarmolenko,2019-09-07 00:00:00,European Championship Qualifiers,Ukraine,Lithuania,0.56,60,F,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,28.0,0.0,0.0,0.0,1,2019,9,7,0.0,0.0,0.0,0.0,2.0
+Andriy Yarmolenko,2019-09-07 00:00:00,European Championship Qualifiers,Ukraine,Lithuania,0.56,60,M,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,28.0,0.0,0.0,0.0,1,2019,9,7,0.0,0.0,0.0,0.0,2.0
 Eric Dier,2018-09-08 00:00:00,UEFA Nations League,England,Spain,0.56,26,M,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,28.0,0.0,0.0,0.0,0,2018,9,8,0.0,0.0,0.0,0.0,1.0
 Filip Helander,2019-06-10 00:00:00,European Championship Qualifiers,Sweden,Spain,0.56,90,D,0,0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0,0,0,0,3,28.0,0.0,0.0,0.0,1,2019,6,10,0.0,0.0,0.0,0.0,1.0
 Ivan Trickovski,2020-10-08 00:00:00,European Championship Qualifiers,North Macedonia,Kosovo,0.56,10,F,0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0,0,0,0,0,3.0,1.0,0.0,0.0,0,2020,10,8,0.0,0.0,0.0,0.0,1.0
@@ -7071,7 +7071,7 @@ André Silva,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,0.0
 Álvaro Morata,2021-06-14 21:00:00,European Championship 2020,Spain,Sweden,0.0,90,F,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,0,0.0,0.0,0.0,0.0,1,2021,6,14,0.0,0.0,0.0,0.0,2.0
 Dries Mertens,2021-06-12 21:00:00,European Championship 2020,Belgium,Russia,0.0,90,F,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,0,0.0,0.0,0.0,0.0,1,2021,6,12,0.0,0.0,0.0,0.0,5.0
 Christian Eriksen,2021-06-12 18:00:00,European Championship 2020,Denmark,Finland,0.0,59,M,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0.0,0.0,0.0,0.0,0,2021,6,12,0.0,0.0,0.0,0.0,1.0
-Andriy Yarmolenko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,0.0,90,F,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,3,0.0,0.0,0.0,0.0,1,2021,6,13,0.0,0.0,0.0,0.0,8.0
+Andriy Yarmolenko,2021-06-13 21:00:00,European Championship 2020,Ukraine,Netherlands,0.0,90,M,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,3,0.0,0.0,0.0,0.0,1,2021,6,13,0.0,0.0,0.0,0.0,8.0
 Diogo Jota,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,0.0,90,M,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,0,0.0,0.0,0.0,0.0,1,2021,6,15,0.0,0.0,0.0,0.0,3.0
 Artem Dzyuba,2021-06-12 21:00:00,European Championship 2020,Russia,Belgium,0.0,90,F,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,3,0.0,0.0,0.0,0.0,1,2021,6,12,0.0,0.0,0.0,0.0,2.0
 João Félix,2021-06-15 18:00:00,European Championship 2020,Portugal,Hungary,0.0,0,M,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,2021,6,15,0.0,0.0,0.0,0.0,0.0
