@@ -34,5 +34,5 @@ if __name__ == '__main__':
     params = args
 
     data = get_data(entity)
-    filename = "../data/raw/{}.json".format(entity)
+    filename = "../data/raw/euro-2020/{}_{}.json".format(entity, params["matchdayId"])
     save_json_to_file(data, filename)
