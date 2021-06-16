@@ -1,238 +1,238 @@
 {
-   "data":{
-      "value":[
-         {
-            "id":8,
-            "webName":"Austria",
-            "offName":"Austria",
-            "shortName":"AUT",
-            "typeIsNational":1,
-            "countryCode":"AUT",
-            "isEliminated":null
-         },
-         {
-            "id":13,
-            "webName":"Belgium",
-            "offName":"Belgium",
-            "shortName":"BEL",
-            "typeIsNational":1,
-            "countryCode":"BEL",
-            "isEliminated":null
-         },
-         {
-            "id":56370,
-            "webName":"Croatia",
-            "offName":"Croatia",
-            "shortName":"CRO",
-            "typeIsNational":1,
-            "countryCode":"CRO",
-            "isEliminated":null
-         },
-         {
-            "id":58837,
-            "webName":"Czech Republic",
-            "offName":"Czech Republic",
-            "shortName":"CZE",
-            "typeIsNational":1,
-            "countryCode":"CZE",
-            "isEliminated":null
-         },
-         {
-            "id":35,
-            "webName":"Denmark",
-            "offName":"Denmark",
-            "shortName":"DEN",
-            "typeIsNational":1,
-            "countryCode":"DEN",
-            "isEliminated":null
-         },
-         {
-            "id":39,
-            "webName":"England",
-            "offName":"England",
-            "shortName":"ENG",
-            "typeIsNational":1,
-            "countryCode":"ENG",
-            "isEliminated":null
-         },
-         {
-            "id":42,
-            "webName":"Finland",
-            "offName":"Finland",
-            "shortName":"FIN",
-            "typeIsNational":1,
-            "countryCode":"FIN",
-            "isEliminated":null
-         },
-         {
-            "id":43,
-            "webName":"France",
-            "offName":"France",
-            "shortName":"FRA",
-            "typeIsNational":1,
-            "countryCode":"FRA",
-            "isEliminated":null
-         },
-         {
-            "id":47,
-            "webName":"Germany",
-            "offName":"Germany",
-            "shortName":"GER",
-            "typeIsNational":1,
-            "countryCode":"GER",
-            "isEliminated":null
-         },
-         {
-            "id":57,
-            "webName":"Hungary",
-            "offName":"Hungary",
-            "shortName":"HUN",
-            "typeIsNational":1,
-            "countryCode":"HUN",
-            "isEliminated":null
-         },
-         {
-            "id":66,
-            "webName":"Italy",
-            "offName":"Italy",
-            "shortName":"ITA",
-            "typeIsNational":1,
-            "countryCode":"ITA",
-            "isEliminated":null
-         },
-         {
-            "id":95,
-            "webName":"Netherlands",
-            "offName":"Netherlands",
-            "shortName":"NED",
-            "typeIsNational":1,
-            "countryCode":"NED",
-            "isEliminated":null
-         },
-         {
-            "id":59205,
-            "webName":"North Macedonia",
-            "offName":"North Macedonia",
-            "shortName":"MKD",
-            "typeIsNational":1,
-            "countryCode":"MKD",
-            "isEliminated":null
-         },
-         {
-            "id":109,
-            "webName":"Poland",
-            "offName":"Poland",
-            "shortName":"POL",
-            "typeIsNational":1,
-            "countryCode":"POL",
-            "isEliminated":null
-         },
-         {
-            "id":110,
-            "webName":"Portugal",
-            "offName":"Portugal",
-            "shortName":"POR",
-            "typeIsNational":1,
-            "countryCode":"POR",
-            "isEliminated":null
-         },
-         {
-            "id":57451,
-            "webName":"Russia",
-            "offName":"Russia",
-            "shortName":"RUS",
-            "typeIsNational":1,
-            "countryCode":"RUS",
-            "isEliminated":null
-         },
-         {
-            "id":117,
-            "webName":"Scotland",
-            "offName":"Scotland",
-            "shortName":"SCO",
-            "typeIsNational":1,
-            "countryCode":"SCO",
-            "isEliminated":null
-         },
-         {
-            "id":58836,
-            "webName":"Slovakia",
-            "offName":"Slovakia",
-            "shortName":"SVK",
-            "typeIsNational":1,
-            "countryCode":"SVK",
-            "isEliminated":null
-         },
-         {
-            "id":122,
-            "webName":"Spain",
-            "offName":"Spain",
-            "shortName":"ESP",
-            "typeIsNational":1,
-            "countryCode":"ESP",
-            "isEliminated":null
-         },
-         {
-            "id":127,
-            "webName":"Sweden",
-            "offName":"Sweden",
-            "shortName":"SWE",
-            "typeIsNational":1,
-            "countryCode":"SWE",
-            "isEliminated":null
-         },
-         {
-            "id":128,
-            "webName":"Switzerland",
-            "offName":"Switzerland",
-            "shortName":"SUI",
-            "typeIsNational":1,
-            "countryCode":"SUI",
-            "isEliminated":null
-         },
-         {
-            "id":135,
-            "webName":"Turkey",
-            "offName":"Turkey",
-            "shortName":"TUR",
-            "typeIsNational":1,
-            "countryCode":"TUR",
-            "isEliminated":null
-         },
-         {
-            "id":57166,
-            "webName":"Ukraine",
-            "offName":"Ukraine",
-            "shortName":"UKR",
-            "typeIsNational":1,
-            "countryCode":"UKR",
-            "isEliminated":null
-         },
-         {
-            "id":144,
-            "webName":"Wales",
-            "offName":"Wales",
-            "shortName":"WAL",
-            "typeIsNational":1,
-            "countryCode":"WAL",
-            "isEliminated":null
-         }
-      ],
-      "feedTime":{
-         "utcTime":"5/3/21 9:14:29 AM",
-         "istTime":"5/3/21 2:44:29 PM",
-         "cestTime":"5/3/21 11:14:29 AM"
-      }
-   },
-   "meta":{
-      "message":"cl_fant_team_listing_get",
-      "retVal":1,
-      "success":true,
-      "source":"Redis",
-      "timestamp":{
-         "utcTime":"5/3/21 9:14:28 AM",
-         "istTime":"5/3/21 2:44:28 PM",
-         "cestTime":"5/3/21 11:14:28 AM"
-      }
-   }
+    "data": {
+        "value": [
+            {
+                "id": 8,
+                "webName": "Austria",
+                "offName": "Austria",
+                "shortName": "AUT",
+                "typeIsNational": 1,
+                "countryCode": "AUT",
+                "isEliminated": null
+            },
+            {
+                "id": 13,
+                "webName": "Belgium",
+                "offName": "Belgium",
+                "shortName": "BEL",
+                "typeIsNational": 1,
+                "countryCode": "BEL",
+                "isEliminated": null
+            },
+            {
+                "id": 56370,
+                "webName": "Croatia",
+                "offName": "Croatia",
+                "shortName": "CRO",
+                "typeIsNational": 1,
+                "countryCode": "CRO",
+                "isEliminated": null
+            },
+            {
+                "id": 58837,
+                "webName": "Czech Republic",
+                "offName": "Czech Republic",
+                "shortName": "CZE",
+                "typeIsNational": 1,
+                "countryCode": "CZE",
+                "isEliminated": null
+            },
+            {
+                "id": 35,
+                "webName": "Denmark",
+                "offName": "Denmark",
+                "shortName": "DEN",
+                "typeIsNational": 1,
+                "countryCode": "DEN",
+                "isEliminated": null
+            },
+            {
+                "id": 39,
+                "webName": "England",
+                "offName": "England",
+                "shortName": "ENG",
+                "typeIsNational": 1,
+                "countryCode": "ENG",
+                "isEliminated": null
+            },
+            {
+                "id": 42,
+                "webName": "Finland",
+                "offName": "Finland",
+                "shortName": "FIN",
+                "typeIsNational": 1,
+                "countryCode": "FIN",
+                "isEliminated": null
+            },
+            {
+                "id": 43,
+                "webName": "France",
+                "offName": "France",
+                "shortName": "FRA",
+                "typeIsNational": 1,
+                "countryCode": "FRA",
+                "isEliminated": null
+            },
+            {
+                "id": 47,
+                "webName": "Germany",
+                "offName": "Germany",
+                "shortName": "GER",
+                "typeIsNational": 1,
+                "countryCode": "GER",
+                "isEliminated": null
+            },
+            {
+                "id": 57,
+                "webName": "Hungary",
+                "offName": "Hungary",
+                "shortName": "HUN",
+                "typeIsNational": 1,
+                "countryCode": "HUN",
+                "isEliminated": null
+            },
+            {
+                "id": 66,
+                "webName": "Italy",
+                "offName": "Italy",
+                "shortName": "ITA",
+                "typeIsNational": 1,
+                "countryCode": "ITA",
+                "isEliminated": null
+            },
+            {
+                "id": 95,
+                "webName": "Netherlands",
+                "offName": "Netherlands",
+                "shortName": "NED",
+                "typeIsNational": 1,
+                "countryCode": "NED",
+                "isEliminated": null
+            },
+            {
+                "id": 59205,
+                "webName": "North Macedonia",
+                "offName": "North Macedonia",
+                "shortName": "MKD",
+                "typeIsNational": 1,
+                "countryCode": "MKD",
+                "isEliminated": null
+            },
+            {
+                "id": 109,
+                "webName": "Poland",
+                "offName": "Poland",
+                "shortName": "POL",
+                "typeIsNational": 1,
+                "countryCode": "POL",
+                "isEliminated": null
+            },
+            {
+                "id": 110,
+                "webName": "Portugal",
+                "offName": "Portugal",
+                "shortName": "POR",
+                "typeIsNational": 1,
+                "countryCode": "POR",
+                "isEliminated": null
+            },
+            {
+                "id": 57451,
+                "webName": "Russia",
+                "offName": "Russia",
+                "shortName": "RUS",
+                "typeIsNational": 1,
+                "countryCode": "RUS",
+                "isEliminated": null
+            },
+            {
+                "id": 117,
+                "webName": "Scotland",
+                "offName": "Scotland",
+                "shortName": "SCO",
+                "typeIsNational": 1,
+                "countryCode": "SCO",
+                "isEliminated": null
+            },
+            {
+                "id": 58836,
+                "webName": "Slovakia",
+                "offName": "Slovakia",
+                "shortName": "SVK",
+                "typeIsNational": 1,
+                "countryCode": "SVK",
+                "isEliminated": null
+            },
+            {
+                "id": 122,
+                "webName": "Spain",
+                "offName": "Spain",
+                "shortName": "ESP",
+                "typeIsNational": 1,
+                "countryCode": "ESP",
+                "isEliminated": null
+            },
+            {
+                "id": 127,
+                "webName": "Sweden",
+                "offName": "Sweden",
+                "shortName": "SWE",
+                "typeIsNational": 1,
+                "countryCode": "SWE",
+                "isEliminated": null
+            },
+            {
+                "id": 128,
+                "webName": "Switzerland",
+                "offName": "Switzerland",
+                "shortName": "SUI",
+                "typeIsNational": 1,
+                "countryCode": "SUI",
+                "isEliminated": null
+            },
+            {
+                "id": 135,
+                "webName": "Turkey",
+                "offName": "Turkey",
+                "shortName": "TUR",
+                "typeIsNational": 1,
+                "countryCode": "TUR",
+                "isEliminated": null
+            },
+            {
+                "id": 57166,
+                "webName": "Ukraine",
+                "offName": "Ukraine",
+                "shortName": "UKR",
+                "typeIsNational": 1,
+                "countryCode": "UKR",
+                "isEliminated": null
+            },
+            {
+                "id": 144,
+                "webName": "Wales",
+                "offName": "Wales",
+                "shortName": "WAL",
+                "typeIsNational": 1,
+                "countryCode": "WAL",
+                "isEliminated": null
+            }
+        ],
+        "feedTime": {
+            "utcTime": "6/16/21 5:04:53 AM",
+            "istTime": "6/16/21 10:34:53 AM",
+            "cestTime": "6/16/21 7:04:53 AM"
+        }
+    },
+    "meta": {
+        "message": "cl_fant_team_listing_get",
+        "retVal": 1,
+        "success": true,
+        "source": "Redis",
+        "timestamp": {
+            "utcTime": "6/16/21 5:04:53 AM",
+            "istTime": "6/16/21 10:34:53 AM",
+            "cestTime": "6/16/21 7:04:53 AM"
+        }
+    }
 }
