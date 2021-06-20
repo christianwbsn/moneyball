@@ -219,9 +219,9 @@
             }
         ],
         "feedTime": {
-            "utcTime": "6/16/21 5:04:53 AM",
-            "istTime": "6/16/21 10:34:53 AM",
-            "cestTime": "6/16/21 7:04:53 AM"
+            "utcTime": "6/19/21 11:07:33 PM",
+            "istTime": "6/20/21 4:37:33 AM",
+            "cestTime": "6/20/21 1:07:33 AM"
         }
     },
     "meta": {
@@ -230,9 +230,9 @@
         "success": true,
         "source": "Redis",
         "timestamp": {
-            "utcTime": "6/16/21 5:04:53 AM",
-            "istTime": "6/16/21 10:34:53 AM",
-            "cestTime": "6/16/21 7:04:53 AM"
+            "utcTime": "6/19/21 11:07:33 PM",
+            "istTime": "6/20/21 4:37:33 AM",
+            "cestTime": "6/20/21 1:07:33 AM"
         }
     }
 }
