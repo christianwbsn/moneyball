@@ -88,3 +88,20 @@ Repository for moneyball approach to fantasy euro 2020
 | F        | M. Braithwaite | 2      |
 
 * Total: 70 Pts
+
+## Semi Final
+| Position | Player         | Points |
+|----------|----------------|--------|
+| GK       | J. Pickford    | 2      |
+| D        | K. Walker      | 2      |
+| D        | J. Maehle      | 0      |
+| D        | L. Shaw        | 2      |
+| M        | T. Delaney     | 2      |
+| M        | F. Torres      | 2      |
+| M        | R. Sterling    | 4      |
+| M        | F. Chiesa (C)  | 14     |
+| F        | A. Morata      | 5      |
+| F        | H. Kane        | 4      |
+| F        | M. Braithwaite | 2      |
+
+* Total: 39 Pts
