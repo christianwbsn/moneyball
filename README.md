@@ -1,6 +1,10 @@
 # Moneyball
 Repository for moneyball approach to fantasy euro 2020
 
+## Final Standings
+Overall : 61169 (Top ~2%)
+Indonesia: 1182 (Top ~2%)
+
 # Points
 ## Matchday 1
 | Position | Player        | Points |
@@ -105,3 +109,20 @@ Repository for moneyball approach to fantasy euro 2020
 | F        | M. Braithwaite | 2      |
 
 * Total: 39 Pts
+
+## Final
+| Position | Player         | Points |
+|----------|----------------|--------|
+| GK       | J. Pickford    | 3      |
+| D        | K. Walker      | 2      |
+| D        | J. Stones      | 2      |
+| D        | L. Shaw        | 8      |
+| D        | Emerson        | 2      |
+| M        | L. Insigne     | 2      |
+| M        | R. Sterling    | 2      |
+| M        | F. Chiesa      | 2      |
+| F        | M. Verratti    | 5      |
+| F        | H. Kane (C)    | 4      |
+| F        | C. Immobile    | 1      |
+
+* Total: 32 Pts
