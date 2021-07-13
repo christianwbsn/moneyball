@@ -2,8 +2,12 @@
 Repository for moneyball approach to fantasy euro 2020
 
 ## Final Standings
-Overall : 61169 (Top ~2%)
-Indonesia: 1182 (Top ~2%)
+Total Points: 363
+
+
+Rank
+* Overall : 61169 (Top ~2%)
+* Indonesia: 1182 (Top ~2%)
 
 # Points
 ## Matchday 1
